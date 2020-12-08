@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNepal | Academic</title>
+    <link>/category/rnepal/</link>
+      <atom:link href="/category/rnepal/index.xml" rel="self" type="application/rss+xml" />
+    <description>RNepal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>RNepal</title>
+      <link>/category/rnepal/</link>
+    </image>
+    
+    <item>
+      <title>Organized Global Azure Bootcamp 2019</title>
+      <link>/post/global-azure-bootcamp-2019/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
+&lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;li&gt;Cognitive Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event was started by learning about the Cloud Computing from Binod Jung Bogati. He taught about the cloud computing , azure cloud and different services available in it.&lt;/p&gt;
+&lt;p&gt;I ran the Power Bi session , where i taught about data analysis using power bi. Partcipant learned   to load data in power bi and create different type of visualization. They also learned to make reports and dashboard using the Power bi tool.&lt;/p&gt;
+&lt;p&gt;Then, Ashim Rajbhandari ran the Azure Cognitive Services session. He spoke about  AI  and different services available in Cognitive  services like Speech ,Vision etc.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We shared Azure Credit worth $100  and some cool stickers. By the end of the bootcamp participants learned about cloud computing, data analysis, azure cognitive services and azure cloud.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

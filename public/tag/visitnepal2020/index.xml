@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VisitNepal2020 | Academic</title>
+    <link>/tag/visitnepal2020/</link>
+      <atom:link href="/tag/visitnepal2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>VisitNepal2020</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>VisitNepal2020</title>
+      <link>/tag/visitnepal2020/</link>
+    </image>
+    
+    <item>
+      <title>Solveathon 2019</title>
+      <link>/post/solveathon-2019/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/solveathon-2019/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Closing ceremony of &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt; is happening now. Open data expo is happening. We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team are showcasing NepalTourism Dashboard Project made with &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt;.&lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Kathmandu?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Kathmandu&lt;/a&gt; &lt;a href=&#34;https://t.co/LrD2wIJDBn&#34;&gt;pic.twitter.com/LrD2wIJDBn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206161486801854465?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We from DataSansar Team attended the Solveathon 2019 for solving social problems with data driven solutions.
+Solveathon 2019 was a two-day event, organized by the World Bank, The Asia Foundation and supported by the UKaid at the Kathmandu University School of Management on 14-15 December.&lt;/p&gt;
+&lt;p&gt;The event was organized to find the data driven solutions to social issues through community collaboration using the open data and open source technology.
+Our team consisted of three people i.e. Binod Jung Bogati, Diwash Shrestha, Prakriti Dhungana.&lt;/p&gt;
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Participants at pitching their &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; products at the closing of the first of its kind &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/data4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#data4nepal&lt;/a&gt; &lt;a href=&#34;https://t.co/ydahK3B4Zx&#34;&gt;pic.twitter.com/ydahK3B4Zx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liza Maharjan (@maharjan_liza) &lt;a href=&#34;https://twitter.com/maharjan_liza/status/1206140144635404288?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The first day of the event start by introducing with other participants and the organizers. The participants were divided in groups based on their projects.
+Our team was working on the tourism sector problem. As Visit Nepal 2020 was approaching, our team decided to work on the Nepal Tourism Dashboard Project. Our Project was to create a solution which can help governmental bodies in planning and decision-making around the tourism sector. Our team worked on the problem definition, solutions and possible beneficiaries. After designing the solution, we started coding the solution in Rstudio using R and data from the Nepal Tourism Board.&lt;/p&gt;
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;We built the prototype of our solution using R and Flexdashboard with different interactive visualizations and maps showing information about the tourism sector of Nepal.&lt;/p&gt;
+&lt;h2 id=&#34;closing&#34;&gt;Closing&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team built Nepal Tourism Dashboard at &lt;a href=&#34;https://twitter.com/hashtag/solvathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solvathon2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/DFIDNepal?ref_src=twsrc%5Etfw&#34;&gt;@DFIDNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/worldbankdata?ref_src=twsrc%5Etfw&#34;&gt;@worldbankdata&lt;/a&gt; &lt;a href=&#34;https://twitter.com/RaviNepal?ref_src=twsrc%5Etfw&#34;&gt;@RaviNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/bjungbogati?ref_src=twsrc%5Etfw&#34;&gt;@bjungbogati&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/prakriti50?ref_src=twsrc%5Etfw&#34;&gt;@prakriti50&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rugnepal?ref_src=twsrc%5Etfw&#34;&gt;@rugnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;br&gt;&lt;br&gt;Demo Link: &lt;a href=&#34;https://t.co/LJbayKZNdF&#34;&gt;https://t.co/LJbayKZNdF&lt;/a&gt; &lt;a href=&#34;https://t.co/QtdTKIKi06&#34;&gt;pic.twitter.com/QtdTKIKi06&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206166565432938497?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We pitched our idea at the front and showed the Nepal Tourism Dashboard prototype we built.
+Here is our prototype you can play with it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

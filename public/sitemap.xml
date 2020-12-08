@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/azure/</loc>
+    <lastmod>2020-11-29T16:01:46+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-29-basic-statistics-with-r/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bootcamp/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/community/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/data-science/</loc>
+    <lastmod>2020-11-29T16:48:28+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/data-science-with-r-workshop/</loc>
+    <lastmod>2020-11-29T16:48:28+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/data-visualization/</loc>
+    <lastmod>2020-11-29T16:48:28+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/event/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hackathon/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hacktoberfest-2019/</loc>
+    <lastmod>2020-11-29T16:46:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interactive-visualization-with-ggplot2-and-plotly/</loc>
+    <lastmod>2020-11-29T15:48:32+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/kathmandu/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/local-hack-day-2018/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mlh/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mlsa/</loc>
+    <lastmod>2020-11-29T16:01:46+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/msp/</loc>
+    <lastmod>2020-11-29T16:49:30+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/global-azure-bootcamp-2019/</loc>
+    <lastmod>2020-11-29T16:01:46+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-11-29T19:46:28+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-programming/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/rnepal/</loc>
+    <lastmod>2020-11-29T16:01:46+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/statistics/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/statistics/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-29T18:00:00+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-bundle/</loc>
+    <lastmod>2020-11-29T19:46:28+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-development/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/witcher-3-api/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/.net/</loc>
+    <lastmod>2020-11-29T11:48:53+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/access-modifier-in-c/</loc>
+    <lastmod>2020-11-29T11:48:53+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/c/</loc>
+    <lastmod>2020-11-29T11:48:53+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/programming/</loc>
+    <lastmod>2020-11-29T11:48:53+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/readabli/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/web-development/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sdg-report-2019/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/shiny/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hack-day/</loc>
+    <lastmod>2020-11-29T15:53:16+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/organized-student-dev-hack/</loc>
+    <lastmod>2020-11-29T15:53:16+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/solveathon-2019/</loc>
+    <lastmod>2020-11-29T15:56:24+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/visitnepal2020/</loc>
+    <lastmod>2020-11-29T15:56:24+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tidyweek/</loc>
+    <lastmod>2020-11-29T15:59:49+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/diwash-shrestha/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/credit-card-fraud-detection-system/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/medical-expense-predictor/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nepal-provinical-dashboard/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/copyofinternal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Programming | Academic</title>
+    <link>/tag/r-programming/</link>
+      <atom:link href="/tag/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R Programming</title>
+      <link>/tag/r-programming/</link>
+    </image>
+    
+    <item>
+      <title>Basic Statistics with R</title>
+      <link>/post/2020-11-29-basic-statistics-with-r/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-11-29-basic-statistics-with-r/</guid>
+      <description>
+&lt;link href=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;In this post i will discuss about the statistics with R.This will be divided in to two blog posts.&lt;/p&gt;
+&lt;div id=&#34;introduction&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Statistics is a branch of mathematics working with data collection, organization, analysis, interpretation and presentation.Statistics is very important in Data Analysis ,Data Science and AI.&lt;/p&gt;
+&lt;p&gt;In this post we will learn about the descriptive statistics with R.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;descriptive-statistics&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descriptive Statistics&lt;/h3&gt;
+&lt;p&gt;Descriptive Statistics is used to summarize the data and it focuses on Distribution , the central tendancy and dispersion of the data . In this section we will learn to work on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distribution&lt;/li&gt;
+&lt;li&gt;Central tendancy&lt;/li&gt;
+&lt;li&gt;Dispersion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;measures-for-central-tendency&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Measures for central tendency&lt;/h3&gt;
+&lt;p&gt;Central tendency is a measure that best summarizes the data and is a measure that is related to the center of the data set.Mean, median, and mode are the most common measures for central tendency.&lt;/p&gt;
+&lt;p&gt;We will use mtcars dataset from the datasets package in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;head(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##                    mpg cyl disp  hp drat    wt  qsec vs am gear carb
+## Mazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4
+## Mazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4
+## Datsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1
+## Hornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1
+## Hornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2
+## Valiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mean&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Mean&lt;/h3&gt;
+&lt;p&gt;The mean is the average of the data. It is the sum of all data divided by the number of data points.
+&lt;b&gt;&lt;i&gt; mean()&lt;/i&gt; &lt;/b&gt; function gives the mean of the data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## mean of the mpg column
+mean(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 20.09062&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;median&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Median&lt;/h3&gt;
+&lt;p&gt;The median is the Middle or midpoint of the data and is also the 50 percentile of the data. The median is not affected by the outliers and skewness of the data.
+&lt;b&gt; Median() &lt;/b&gt; function is used to get Median.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## median of the cyl
+median(mtcars$cyl)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 6&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mode&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Mode&lt;/h3&gt;
+&lt;p&gt;Mode is a value in data that has highest frequency and useful when the differences are non-numeric and seldom occur.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt; y &amp;lt;- table(mtcars$gear)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;names(y)[which(y ==max(y))]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;3&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;“3” is the mode of the gear column.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;measures-of-variability&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Measures of variability&lt;/h3&gt;
+&lt;p&gt;Measure of variability are the measures of the spread of the data. It can be range ,interquartile range, variance, standard deviation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;range&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Range&lt;/h3&gt;
+&lt;p&gt;Range is the difference between the largest and smallest points in the data.
+&lt;i&gt; &lt;b&gt; range() &lt;/b&gt; &lt;/i&gt; function is used to find the range in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;range(mtcars$disp)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1]  71.1 472.0&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;interquartile-range&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Interquartile Range&lt;/h3&gt;
+&lt;p&gt;The interquartile range is the measure of the difference between the 75 percentile or third quartile and the 25 percentile or first quartile.
+&lt;b&gt;&lt;i&gt; IQR()&lt;/i&gt;&lt;/b&gt; function is used to get interquartile Range in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## IQR of sugar 
+IQR(mtcars$wt)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 1.02875&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt; quantile()&lt;/i&gt;&lt;/b&gt; function is used to get quartiles in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## quartile of the sugar
+quantile(mtcars$am)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   0%  25%  50%  75% 100% 
+##    0    0    0    1    1&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can get the 25 and 75 percentiles of sugar in data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;quantile(mtcars$mpg, 0.25)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    25% 
+## 15.425&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;quantile(mtcars$mpg, 0.75)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  75% 
+## 22.8&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;variance&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Variance&lt;/h3&gt;
+&lt;p&gt;The variance is the average of squared differences from the mean and it is used to measure the spreadness of the data.
+&lt;b&gt; &lt;i&gt;var()&lt;/i&gt; &lt;/b&gt; function is used to find the sample variance in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;var(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 36.3241&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt; var()&lt;/i&gt;&lt;/b&gt; and (N-1)/N is used to find the population variance.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;N &amp;lt;- nrow(mtcars)
+var(mtcars$mpg) * (N -1) / N&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 35.18897&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;standard-deviation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Standard Deviation&lt;/h3&gt;
+&lt;p&gt;The standard deviation is the square root of a variance and it measures the spread of the data.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt;sd()&lt;/i&gt;&lt;/b&gt; is used to find the sample standard deviation of a dataset.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## standard deviation of the calcium
+sd(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 6.026948&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;normal-distribution&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Normal Distribution&lt;/h3&gt;
+&lt;p&gt;Normal distribution is one of the most important theories because nearly all statistical tests require the data to be distributed normally.
+We can plot a distribution in R using &lt;b&gt;&lt;i&gt; hist()&lt;/i&gt;&lt;/b&gt; function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt; qqnorm() &lt;/i&gt;&lt;/b&gt; and &lt;b&gt;&lt;i&gt;qqline&lt;/i&gt;&lt;/b&gt; functions are used to find whether data is normally distributed.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;qqnorm(mtcars$mpg)
+qqline(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If the points do not deviate away from the line , the data is normally distributed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modality&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Modality&lt;/h3&gt;
+&lt;p&gt;The modality of a distribution is determined by the number of peaks it contains.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-16-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;skewness-and-kurtosis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Skewness and Kurtosis&lt;/h3&gt;
+&lt;p&gt;Skewness is a measurement of the symmetry of a distribution and how much the distribution is different from the normal distribution.
+Negative Skew is alos known as left skewed and positive skew is also known as right skewed. Th histogram from the previous section has a positive skew.&lt;/p&gt;
+&lt;p&gt;Kurtosis measures whether your dataset is heavy-tailed or light-tailed compared to a normal distribution. High Kurtosis means heavy tailed , so there are more outliers in the data.
+To find the kurtosis and skewness in R , we need moments package.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(moments)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: package &amp;#39;moments&amp;#39; was built under R version 4.0.3&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## skewness of the total_fat
+skewness(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 0.6404399&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Kurtosis of the total fat
+kurtosis(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 2.799467&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;summary-and-str-function&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;summary() and str() function&lt;/h3&gt;
+&lt;p&gt;The summary() and str() function are the fastest ways to get descriptive statistics of the data.
+We can get the basic descriptive statistics using the &lt;b&gt;&lt;i&gt;summary()&lt;/b&gt;&lt;/i&gt; function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       mpg             cyl             disp             hp       
+##  Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  
+##  1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  
+##  Median :19.20   Median :6.000   Median :196.3   Median :123.0  
+##  Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  
+##  3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  
+##  Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  
+##       drat             wt             qsec             vs        
+##  Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  
+##  1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  
+##  Median :3.695   Median :3.325   Median :17.71   Median :0.0000  
+##  Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  
+##  3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  
+##  Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  
+##        am              gear            carb      
+##  Min.   :0.0000   Min.   :3.000   Min.   :1.000  
+##  1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  
+##  Median :0.0000   Median :4.000   Median :2.000  
+##  Mean   :0.4062   Mean   :3.688   Mean   :2.812  
+##  3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  
+##  Max.   :1.0000   Max.   :5.000   Max.   :8.000&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can get the structure of the data using the str() function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;str(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## &amp;#39;data.frame&amp;#39;:    32 obs. of  11 variables:
+##  $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
+##  $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...
+##  $ disp: num  160 160 108 258 360 ...
+##  $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...
+##  $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...
+##  $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...
+##  $ qsec: num  16.5 17 18.6 19.4 17 ...
+##  $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...
+##  $ am  : num  1 1 1 0 0 0 0 0 0 0 ...
+##  $ gear: num  4 4 4 3 3 3 3 4 4 4 ...
+##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this blog i wrote about the basic or descriptive statistics with R. In another blog i will write about the inferential part of statistics which is very important used mostly in research and analysis.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science with R Workshop</title>
+      <link>/post/data-science-with-r-workshop/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/data-science-with-r-workshop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;p&gt;In day 1 I talked about the What is Data Science, How to do Data Science. I taught participants about R language, extract Data in R environment. Participants learned about the data cleaning process, data manipulation with &lt;a href=&#34;https://tidyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyr&lt;/a&gt;, &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dplyr&lt;/a&gt; package.&lt;/p&gt;
+&lt;h3 id=&#34;day-2&#34;&gt;Day 2&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Day 2&lt;br&gt;Data Analysis with R Workshop &lt;a href=&#34;https://twitter.com/hashtag/machinelearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#machinelearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/kathfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#kathfest&lt;/a&gt; &lt;a href=&#34;https://t.co/j1QCHQzjMs&#34;&gt;pic.twitter.com/j1QCHQzjMs&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1076406490225958912?ref_src=twsrc%5Etfw&#34;&gt;December 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 2 I talked about the data visualization with ggplot2 and base R. Participants also learned about report creation using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; and dashboard/application creation with &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flexdashboard&lt;/a&gt;  to show the insights.&lt;/p&gt;
+&lt;h3 id=&#34;day-3&#34;&gt;Day 3&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are organizing 3 Days Data Analysis with R workshop at kathford college. We will be talking about R, Data Analysis amd DataScience in these 3 days.&lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rst?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://t.co/d3MLXAnVm7&#34;&gt;pic.twitter.com/d3MLXAnVm7&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1075985595007156224?ref_src=twsrc%5Etfw&#34;&gt;December 21, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 3 I talked about machine learning and  how to perform the machine learning in R. I also showed machine learning application made with shiny and R. &lt;a href=&#34;https://twitter.com/bjungbogati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binod Jung Bogati&lt;/a&gt;  talked about the use of &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git&lt;/a&gt; and &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; in data science and programming.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By the end of workshop participants were able to extract or gain data, clean, manipulate, analyze, visualize and report all using R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organized Global Azure Bootcamp 2019</title>
+      <link>/post/global-azure-bootcamp-2019/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
+&lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;li&gt;Cognitive Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event was started by learning about the Cloud Computing from Binod Jung Bogati. He taught about the cloud computing , azure cloud and different services available in it.&lt;/p&gt;
+&lt;p&gt;I ran the Power Bi session , where i taught about data analysis using power bi. Partcipant learned   to load data in power bi and create different type of visualization. They also learned to make reports and dashboard using the Power bi tool.&lt;/p&gt;
+&lt;p&gt;Then, Ashim Rajbhandari ran the Azure Cognitive Services session. He spoke about  AI  and different services available in Cognitive  services like Speech ,Vision etc.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We shared Azure Credit worth $100  and some cool stickers. By the end of the bootcamp participants learned about cloud computing, data analysis, azure cognitive services and azure cloud.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

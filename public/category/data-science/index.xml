@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Academic</title>
+    <link>/category/data-science/</link>
+      <atom:link href="/category/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>/category/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Data Science with R Workshop</title>
+      <link>/post/data-science-with-r-workshop/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/data-science-with-r-workshop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;p&gt;In day 1 I talked about the What is Data Science, How to do Data Science. I taught participants about R language, extract Data in R environment. Participants learned about the data cleaning process, data manipulation with &lt;a href=&#34;https://tidyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyr&lt;/a&gt;, &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dplyr&lt;/a&gt; package.&lt;/p&gt;
+&lt;h3 id=&#34;day-2&#34;&gt;Day 2&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Day 2&lt;br&gt;Data Analysis with R Workshop &lt;a href=&#34;https://twitter.com/hashtag/machinelearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#machinelearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/kathfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#kathfest&lt;/a&gt; &lt;a href=&#34;https://t.co/j1QCHQzjMs&#34;&gt;pic.twitter.com/j1QCHQzjMs&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1076406490225958912?ref_src=twsrc%5Etfw&#34;&gt;December 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 2 I talked about the data visualization with ggplot2 and base R. Participants also learned about report creation using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; and dashboard/application creation with &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flexdashboard&lt;/a&gt;  to show the insights.&lt;/p&gt;
+&lt;h3 id=&#34;day-3&#34;&gt;Day 3&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are organizing 3 Days Data Analysis with R workshop at kathford college. We will be talking about R, Data Analysis amd DataScience in these 3 days.&lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rst?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://t.co/d3MLXAnVm7&#34;&gt;pic.twitter.com/d3MLXAnVm7&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1075985595007156224?ref_src=twsrc%5Etfw&#34;&gt;December 21, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 3 I talked about machine learning and  how to perform the machine learning in R. I also showed machine learning application made with shiny and R. &lt;a href=&#34;https://twitter.com/bjungbogati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binod Jung Bogati&lt;/a&gt;  talked about the use of &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git&lt;/a&gt; and &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; in data science and programming.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By the end of workshop participants were able to extract or gain data, clean, manipulate, analyze, visualize and report all using R.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

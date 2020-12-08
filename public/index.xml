@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Statistics with R</title>
+      <link>/post/2020-11-29-basic-statistics-with-r/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-11-29-basic-statistics-with-r/</guid>
+      <description>
+&lt;link href=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;In this post i will discuss about the statistics with R.This will be divided in to two blog posts.&lt;/p&gt;
+&lt;div id=&#34;introduction&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Statistics is a branch of mathematics working with data collection, organization, analysis, interpretation and presentation.Statistics is very important in Data Analysis ,Data Science and AI.&lt;/p&gt;
+&lt;p&gt;In this post we will learn about the descriptive statistics with R.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;descriptive-statistics&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descriptive Statistics&lt;/h3&gt;
+&lt;p&gt;Descriptive Statistics is used to summarize the data and it focuses on Distribution , the central tendancy and dispersion of the data . In this section we will learn to work on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distribution&lt;/li&gt;
+&lt;li&gt;Central tendancy&lt;/li&gt;
+&lt;li&gt;Dispersion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;measures-for-central-tendency&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Measures for central tendency&lt;/h3&gt;
+&lt;p&gt;Central tendency is a measure that best summarizes the data and is a measure that is related to the center of the data set.Mean, median, and mode are the most common measures for central tendency.&lt;/p&gt;
+&lt;p&gt;We will use mtcars dataset from the datasets package in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;head(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##                    mpg cyl disp  hp drat    wt  qsec vs am gear carb
+## Mazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4
+## Mazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4
+## Datsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1
+## Hornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1
+## Hornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2
+## Valiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mean&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Mean&lt;/h3&gt;
+&lt;p&gt;The mean is the average of the data. It is the sum of all data divided by the number of data points.
+&lt;b&gt;&lt;i&gt; mean()&lt;/i&gt; &lt;/b&gt; function gives the mean of the data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## mean of the mpg column
+mean(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 20.09062&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;median&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Median&lt;/h3&gt;
+&lt;p&gt;The median is the Middle or midpoint of the data and is also the 50 percentile of the data. The median is not affected by the outliers and skewness of the data.
+&lt;b&gt; Median() &lt;/b&gt; function is used to get Median.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## median of the cyl
+median(mtcars$cyl)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 6&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mode&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Mode&lt;/h3&gt;
+&lt;p&gt;Mode is a value in data that has highest frequency and useful when the differences are non-numeric and seldom occur.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt; y &amp;lt;- table(mtcars$gear)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;names(y)[which(y ==max(y))]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;3&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;“3” is the mode of the gear column.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;measures-of-variability&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Measures of variability&lt;/h3&gt;
+&lt;p&gt;Measure of variability are the measures of the spread of the data. It can be range ,interquartile range, variance, standard deviation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;range&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Range&lt;/h3&gt;
+&lt;p&gt;Range is the difference between the largest and smallest points in the data.
+&lt;i&gt; &lt;b&gt; range() &lt;/b&gt; &lt;/i&gt; function is used to find the range in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;range(mtcars$disp)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1]  71.1 472.0&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;interquartile-range&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Interquartile Range&lt;/h3&gt;
+&lt;p&gt;The interquartile range is the measure of the difference between the 75 percentile or third quartile and the 25 percentile or first quartile.
+&lt;b&gt;&lt;i&gt; IQR()&lt;/i&gt;&lt;/b&gt; function is used to get interquartile Range in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## IQR of sugar 
+IQR(mtcars$wt)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 1.02875&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt; quantile()&lt;/i&gt;&lt;/b&gt; function is used to get quartiles in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## quartile of the sugar
+quantile(mtcars$am)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   0%  25%  50%  75% 100% 
+##    0    0    0    1    1&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can get the 25 and 75 percentiles of sugar in data.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;quantile(mtcars$mpg, 0.25)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    25% 
+## 15.425&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;quantile(mtcars$mpg, 0.75)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  75% 
+## 22.8&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;variance&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Variance&lt;/h3&gt;
+&lt;p&gt;The variance is the average of squared differences from the mean and it is used to measure the spreadness of the data.
+&lt;b&gt; &lt;i&gt;var()&lt;/i&gt; &lt;/b&gt; function is used to find the sample variance in R.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;var(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 36.3241&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt; var()&lt;/i&gt;&lt;/b&gt; and (N-1)/N is used to find the population variance.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;N &amp;lt;- nrow(mtcars)
+var(mtcars$mpg) * (N -1) / N&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 35.18897&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;standard-deviation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Standard Deviation&lt;/h3&gt;
+&lt;p&gt;The standard deviation is the square root of a variance and it measures the spread of the data.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt;sd()&lt;/i&gt;&lt;/b&gt; is used to find the sample standard deviation of a dataset.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## standard deviation of the calcium
+sd(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 6.026948&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;normal-distribution&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Normal Distribution&lt;/h3&gt;
+&lt;p&gt;Normal distribution is one of the most important theories because nearly all statistical tests require the data to be distributed normally.
+We can plot a distribution in R using &lt;b&gt;&lt;i&gt; hist()&lt;/i&gt;&lt;/b&gt; function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt; qqnorm() &lt;/i&gt;&lt;/b&gt; and &lt;b&gt;&lt;i&gt;qqline&lt;/i&gt;&lt;/b&gt; functions are used to find whether data is normally distributed.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;qqnorm(mtcars$mpg)
+qqline(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If the points do not deviate away from the line , the data is normally distributed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modality&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Modality&lt;/h3&gt;
+&lt;p&gt;The modality of a distribution is determined by the number of peaks it contains.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-16-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;skewness-and-kurtosis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Skewness and Kurtosis&lt;/h3&gt;
+&lt;p&gt;Skewness is a measurement of the symmetry of a distribution and how much the distribution is different from the normal distribution.
+Negative Skew is alos known as left skewed and positive skew is also known as right skewed. Th histogram from the previous section has a positive skew.&lt;/p&gt;
+&lt;p&gt;Kurtosis measures whether your dataset is heavy-tailed or light-tailed compared to a normal distribution. High Kurtosis means heavy tailed , so there are more outliers in the data.
+To find the kurtosis and skewness in R , we need moments package.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(moments)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: package &amp;#39;moments&amp;#39; was built under R version 4.0.3&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## skewness of the total_fat
+skewness(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 0.6404399&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Kurtosis of the total fat
+kurtosis(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 2.799467&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;summary-and-str-function&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;summary() and str() function&lt;/h3&gt;
+&lt;p&gt;The summary() and str() function are the fastest ways to get descriptive statistics of the data.
+We can get the basic descriptive statistics using the &lt;b&gt;&lt;i&gt;summary()&lt;/b&gt;&lt;/i&gt; function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       mpg             cyl             disp             hp       
+##  Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  
+##  1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  
+##  Median :19.20   Median :6.000   Median :196.3   Median :123.0  
+##  Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  
+##  3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  
+##  Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  
+##       drat             wt             qsec             vs        
+##  Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  
+##  1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  
+##  Median :3.695   Median :3.325   Median :17.71   Median :0.0000  
+##  Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  
+##  3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  
+##  Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  
+##        am              gear            carb      
+##  Min.   :0.0000   Min.   :3.000   Min.   :1.000  
+##  1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  
+##  Median :0.0000   Median :4.000   Median :2.000  
+##  Mean   :0.4062   Mean   :3.688   Mean   :2.812  
+##  3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  
+##  Max.   :1.0000   Max.   :5.000   Max.   :8.000&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can get the structure of the data using the str() function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;str(mtcars)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## &amp;#39;data.frame&amp;#39;:    32 obs. of  11 variables:
+##  $ mpg : num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...
+##  $ cyl : num  6 6 4 6 8 6 8 4 4 6 ...
+##  $ disp: num  160 160 108 258 360 ...
+##  $ hp  : num  110 110 93 110 175 105 245 62 95 123 ...
+##  $ drat: num  3.9 3.9 3.85 3.08 3.15 2.76 3.21 3.69 3.92 3.92 ...
+##  $ wt  : num  2.62 2.88 2.32 3.21 3.44 ...
+##  $ qsec: num  16.5 17 18.6 19.4 17 ...
+##  $ vs  : num  0 0 1 1 0 1 0 1 1 1 ...
+##  $ am  : num  1 1 1 0 0 0 0 0 0 0 ...
+##  $ gear: num  4 4 4 3 3 3 3 4 4 4 ...
+##  $ carb: num  4 4 1 1 2 1 4 2 2 4 ...&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this blog i wrote about the basic or descriptive statistics with R. In another blog i will write about the inferential part of statistics which is very important used mostly in research and analysis.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science with R Workshop</title>
+      <link>/post/data-science-with-r-workshop/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/data-science-with-r-workshop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;p&gt;In day 1 I talked about the What is Data Science, How to do Data Science. I taught participants about R language, extract Data in R environment. Participants learned about the data cleaning process, data manipulation with &lt;a href=&#34;https://tidyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyr&lt;/a&gt;, &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dplyr&lt;/a&gt; package.&lt;/p&gt;
+&lt;h3 id=&#34;day-2&#34;&gt;Day 2&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Day 2&lt;br&gt;Data Analysis with R Workshop &lt;a href=&#34;https://twitter.com/hashtag/machinelearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#machinelearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/kathfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#kathfest&lt;/a&gt; &lt;a href=&#34;https://t.co/j1QCHQzjMs&#34;&gt;pic.twitter.com/j1QCHQzjMs&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1076406490225958912?ref_src=twsrc%5Etfw&#34;&gt;December 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 2 I talked about the data visualization with ggplot2 and base R. Participants also learned about report creation using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; and dashboard/application creation with &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flexdashboard&lt;/a&gt;  to show the insights.&lt;/p&gt;
+&lt;h3 id=&#34;day-3&#34;&gt;Day 3&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are organizing 3 Days Data Analysis with R workshop at kathford college. We will be talking about R, Data Analysis amd DataScience in these 3 days.&lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rst?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://t.co/d3MLXAnVm7&#34;&gt;pic.twitter.com/d3MLXAnVm7&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1075985595007156224?ref_src=twsrc%5Etfw&#34;&gt;December 21, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 3 I talked about machine learning and  how to perform the machine learning in R. I also showed machine learning application made with shiny and R. &lt;a href=&#34;https://twitter.com/bjungbogati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binod Jung Bogati&lt;/a&gt;  talked about the use of &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git&lt;/a&gt; and &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; in data science and programming.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By the end of workshop participants were able to extract or gain data, clean, manipulate, analyze, visualize and report all using R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HacktoberFest 2019</title>
+      <link>/post/hacktoberfest-2019/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/hacktoberfest-2019/</guid>
+      <description>&lt;p&gt;Last year I participated on the Hacktoberfest 2018 and learned about open source culture and community.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hacktoberfest is a worldwide celebration of open source software and is open for everyone! It is all about encouraging meaningful contributions to the open source ecosystem, for beginners and veterans alike.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hacktoberfest is yearly open event which is oraganized by DigitalOcean on month of October. I first participated in Hacktoberfest 2018 and did more than 10 pull request out of which some got merged. Finally, I got my Hacktoberfest swags from digitalocean.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Thank-you &lt;a href=&#34;https://twitter.com/digitalocean?ref_src=twsrc%5Etfw&#34;&gt;@digitalocean&lt;/a&gt; &lt;a href=&#34;https://twitter.com/github?ref_src=twsrc%5Etfw&#34;&gt;@github&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Microsoft?ref_src=twsrc%5Etfw&#34;&gt;@Microsoft&lt;/a&gt; for these beautiful &lt;a href=&#34;https://twitter.com/hashtag/hacktoberfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hacktoberfest&lt;/a&gt; 2018 t-shirts. And special thanks to &lt;a href=&#34;https://twitter.com/bjungbogati?ref_src=twsrc%5Etfw&#34;&gt;@bjungbogati&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/opensource?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opensource&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/community?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#community&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://t.co/lslmhxK0fH&#34;&gt;pic.twitter.com/lslmhxK0fH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1086245801997799426?ref_src=twsrc%5Etfw&#34;&gt;January 18, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h4 id=&#34;hactoberfest&#34;&gt;Hactoberfest&lt;/h4&gt;
+&lt;p&gt;Partcipating in Hactoberfest helped me alot to learn new things and new projects. I was motivated to host a Hacktoberfest meetup in Kathmandu. I and Binod Jung Bogati Organized the Hacktoberfest Kathmandu Meetup.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;in&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Hacktoberfest&lt;/a&gt; Kathmandu Meetup &lt;a href=&#34;https://twitter.com/digitalocean?ref_src=twsrc%5Etfw&#34;&gt;@digitalocean&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/devto?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#devto&lt;/a&gt; &lt;a href=&#34;https://t.co/jUtsmTzaC4&#34;&gt;pic.twitter.com/jUtsmTzaC4&lt;/a&gt;&lt;/p&gt;&amp;mdash; DataSansar (@DataSansar) &lt;a href=&#34;https://twitter.com/DataSansar/status/1186284925399359488?ref_src=twsrc%5Etfw&#34;&gt;October 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;In the meetup participants learned about the git and github by sending pull request to the &lt;a href=&#34;https://hacktm.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hacktm.js.org&lt;/a&gt; project. We also shared some cool swags with participants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Visualization With ggplot2 and Plotly</title>
+      <link>/post/interactive-visualization-with-ggplot2-and-plotly/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/interactive-visualization-with-ggplot2-and-plotly/</guid>
+      <description>&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/css/pagedtable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/js/pagedtable.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;I love to work with data while analysing the data, I like to explore it and for that best thing is to visualize the data. I create a visualization to show the information or finding from the analysis. For this task, I use the ggplot2 package from the Tidyverse Universe.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;plot.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GGplot2&lt;/a&gt; is powerful visualization package based on   &lt;a href=&#34;https://www.springer.com/gp/book/9780387245447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The grammar of graphics&lt;/a&gt; and part of &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt;. It is easy to use and powerful to create any type of visualization. The problem is it can only make beautiful static visualization.&lt;/p&gt;
+&lt;p&gt;I write blogs, create dashboard and reports. The interactive graph allows users to interact with a graph which is more meaningful than a static graph. It is not possible to create an interactive graph with ggplot2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plot.ly/r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; can convert the high-quality ggplot graphs to interactive using the ggploty function in plotly package.  plotly is a free opensource library for interactive visualization. In this blog, I will create a static visualization with ggplot2 and then make the ggplot graph interactive with plotly package. I will use data about Nobel prize winner to create the visualization. Let&amp;rsquo;s get visualizing&lt;/p&gt;
+&lt;h3 id=&#34;load-packages&#34;&gt;Load Packages&lt;/h3&gt;
+&lt;p&gt;lets load the required packages in our R environment.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(readr) # read csv file
+library(ggplot2) # for visualization
+library(dplyr) # data manipulation
+library(plotly) # interactive data visualization
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;load-data&#34;&gt;Load Data&lt;/h3&gt;
+&lt;p&gt;I am using the Nobel prize winner data which is sourced from &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytuesday github&lt;/a&gt; which release every week new data project.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;data &amp;lt;- read_csv(&amp;quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-05-14/nobel_winners.csv&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here is the data that i will use to create visualization.&lt;/p&gt;
+&lt;div data-pagedtable=&#34;false&#34;&gt;
+  &lt;script data-pagedtable-source type=&#34;application/json&#34;&gt;
+{&#34;columns&#34;:[{&#34;label&#34;:[&#34;prize_year&#34;],&#34;name&#34;:[1],&#34;type&#34;:[&#34;dbl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;category&#34;],&#34;name&#34;:[2],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;prize&#34;],&#34;name&#34;:[3],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;motivation&#34;],&#34;name&#34;:[4],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;prize_share&#34;],&#34;name&#34;:[5],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;laureate_id&#34;],&#34;name&#34;:[6],&#34;type&#34;:[&#34;dbl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;laureate_type&#34;],&#34;name&#34;:[7],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;full_name&#34;],&#34;name&#34;:[8],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;birth_date&#34;],&#34;name&#34;:[9],&#34;type&#34;:[&#34;date&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;birth_city&#34;],&#34;name&#34;:[10],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;birth_country&#34;],&#34;name&#34;:[11],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;gender&#34;],&#34;name&#34;:[12],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;organization_name&#34;],&#34;name&#34;:[13],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;organization_city&#34;],&#34;name&#34;:[14],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;organization_country&#34;],&#34;name&#34;:[15],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;death_date&#34;],&#34;name&#34;:[16],&#34;type&#34;:[&#34;date&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;death_city&#34;],&#34;name&#34;:[17],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;death_country&#34;],&#34;name&#34;:[18],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]}],&#34;data&#34;:[{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Chemistry&#34;,&#34;3&#34;:&#34;The Nobel Prize in Chemistry 1901&#34;,&#34;4&#34;:&#34;\&#34;in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions\&#34;&#34;,&#34;5&#34;:&#34;1/1&#34;,&#34;6&#34;:&#34;160&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Jacobus Henricus van &#39;t Hoff&#34;,&#34;9&#34;:&#34;1852-08-30&#34;,&#34;10&#34;:&#34;Rotterdam&#34;,&#34;11&#34;:&#34;Netherlands&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;Berlin University&#34;,&#34;14&#34;:&#34;Berlin&#34;,&#34;15&#34;:&#34;Germany&#34;,&#34;16&#34;:&#34;1911-03-01&#34;,&#34;17&#34;:&#34;Berlin&#34;,&#34;18&#34;:&#34;Germany&#34;},{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Literature&#34;,&#34;3&#34;:&#34;The Nobel Prize in Literature 1901&#34;,&#34;4&#34;:&#34;\&#34;in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect\&#34;&#34;,&#34;5&#34;:&#34;1/1&#34;,&#34;6&#34;:&#34;569&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Sully Prudhomme&#34;,&#34;9&#34;:&#34;1839-03-16&#34;,&#34;10&#34;:&#34;Paris&#34;,&#34;11&#34;:&#34;France&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;NA&#34;,&#34;15&#34;:&#34;NA&#34;,&#34;16&#34;:&#34;1907-09-07&#34;,&#34;17&#34;:&#34;Châtenay&#34;,&#34;18&#34;:&#34;France&#34;},{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Medicine&#34;,&#34;3&#34;:&#34;The Nobel Prize in Physiology or Medicine 1901&#34;,&#34;4&#34;:&#34;\&#34;for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths\&#34;&#34;,&#34;5&#34;:&#34;1/1&#34;,&#34;6&#34;:&#34;293&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Emil Adolf von Behring&#34;,&#34;9&#34;:&#34;1854-03-15&#34;,&#34;10&#34;:&#34;Hansdorf (Lawice)&#34;,&#34;11&#34;:&#34;Prussia (Poland)&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;Marburg University&#34;,&#34;14&#34;:&#34;Marburg&#34;,&#34;15&#34;:&#34;Germany&#34;,&#34;16&#34;:&#34;1917-03-31&#34;,&#34;17&#34;:&#34;Marburg&#34;,&#34;18&#34;:&#34;Germany&#34;},{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Peace&#34;,&#34;3&#34;:&#34;The Nobel Peace Prize 1901&#34;,&#34;4&#34;:&#34;NA&#34;,&#34;5&#34;:&#34;1/2&#34;,&#34;6&#34;:&#34;462&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Jean Henry Dunant&#34;,&#34;9&#34;:&#34;1828-05-08&#34;,&#34;10&#34;:&#34;Geneva&#34;,&#34;11&#34;:&#34;Switzerland&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;NA&#34;,&#34;15&#34;:&#34;NA&#34;,&#34;16&#34;:&#34;1910-10-30&#34;,&#34;17&#34;:&#34;Heiden&#34;,&#34;18&#34;:&#34;Switzerland&#34;},{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Peace&#34;,&#34;3&#34;:&#34;The Nobel Peace Prize 1901&#34;,&#34;4&#34;:&#34;NA&#34;,&#34;5&#34;:&#34;1/2&#34;,&#34;6&#34;:&#34;463&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Frédéric Passy&#34;,&#34;9&#34;:&#34;1822-05-20&#34;,&#34;10&#34;:&#34;Paris&#34;,&#34;11&#34;:&#34;France&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;NA&#34;,&#34;15&#34;:&#34;NA&#34;,&#34;16&#34;:&#34;1912-06-12&#34;,&#34;17&#34;:&#34;Paris&#34;,&#34;18&#34;:&#34;France&#34;},{&#34;1&#34;:&#34;1901&#34;,&#34;2&#34;:&#34;Physics&#34;,&#34;3&#34;:&#34;The Nobel Prize in Physics 1901&#34;,&#34;4&#34;:&#34;\&#34;in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him\&#34;&#34;,&#34;5&#34;:&#34;1/1&#34;,&#34;6&#34;:&#34;1&#34;,&#34;7&#34;:&#34;Individual&#34;,&#34;8&#34;:&#34;Wilhelm Conrad Röntgen&#34;,&#34;9&#34;:&#34;1845-03-27&#34;,&#34;10&#34;:&#34;Lennep (Remscheid)&#34;,&#34;11&#34;:&#34;Prussia (Germany)&#34;,&#34;12&#34;:&#34;Male&#34;,&#34;13&#34;:&#34;Munich University&#34;,&#34;14&#34;:&#34;Munich&#34;,&#34;15&#34;:&#34;Germany&#34;,&#34;16&#34;:&#34;1923-02-10&#34;,&#34;17&#34;:&#34;Munich&#34;,&#34;18&#34;:&#34;Germany&#34;}],&#34;options&#34;:{&#34;columns&#34;:{&#34;min&#34;:{},&#34;max&#34;:[10]},&#34;rows&#34;:{&#34;min&#34;:[10],&#34;max&#34;:[10]},&#34;pages&#34;:{}}}
+  &lt;/script&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;create-a-barplot&#34;&gt;Create a barplot&lt;/h3&gt;
+&lt;p&gt;I created a barplot showing the number of the Nobel prize winner and the prize category. At first, I create a static plot with ggplot2.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;nobelbar &amp;lt;- ggplot(data) + geom_bar(aes(category, fill = category)) +
+  theme_minimal() +
+  theme(legend.position = &amp;quot;none&amp;quot;, axis.title.x = element_blank()) + 
+  labs(title = &amp;quot;Number of Nobel prize winner by category&amp;quot;) +
+  scale_fill_brewer(palette = &amp;quot;Set2&amp;quot;)
+
+nobelbar
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;make-ggplot-interactive&#34;&gt;Make ggplot interactive&lt;/h3&gt;
+&lt;p&gt;I will pass the ggplot to the ggplotly function from plotly package, which creates an interactive graph.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;ggplotly(nobelbar, tooltip = c(&amp;quot;fill&amp;quot;, &amp;quot;count&amp;quot;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[1],&#34;y&#34;:[194],&#34;text&#34;:&#34;count: 194&lt;br /&gt;category: Chemistry&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(102,194,165,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Chemistry&#34;,&#34;legendgroup&#34;:&#34;Chemistry&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[2],&#34;y&#34;:[83],&#34;text&#34;:&#34;count:  83&lt;br /&gt;category: Economics&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(252,141,98,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Economics&#34;,&#34;legendgroup&#34;:&#34;Economics&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[3],&#34;y&#34;:[113],&#34;text&#34;:&#34;count: 113&lt;br /&gt;category: Literature&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(141,160,203,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Literature&#34;,&#34;legendgroup&#34;:&#34;Literature&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[4],&#34;y&#34;:[227],&#34;text&#34;:&#34;count: 227&lt;br /&gt;category: Medicine&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(231,138,195,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Medicine&#34;,&#34;legendgroup&#34;:&#34;Medicine&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[5],&#34;y&#34;:[130],&#34;text&#34;:&#34;count: 130&lt;br /&gt;category: Peace&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(166,216,84,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Peace&#34;,&#34;legendgroup&#34;:&#34;Peace&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[6],&#34;y&#34;:[222],&#34;text&#34;:&#34;count: 222&lt;br /&gt;category: Physics&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(255,217,47,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Physics&#34;,&#34;legendgroup&#34;:&#34;Physics&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:43.7625570776256,&#34;r&#34;:7.30593607305936,&#34;b&#34;:25.5707762557078,&#34;l&#34;:43.1050228310502},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;title&#34;:{&#34;text&#34;:&#34;Number of Nobel prize winner by category&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:17.5342465753425},&#34;x&#34;:0,&#34;xref&#34;:&#34;paper&#34;},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.4,6.6],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;Chemistry&#34;,&#34;Economics&#34;,&#34;Literature&#34;,&#34;Medicine&#34;,&#34;Peace&#34;,&#34;Physics&#34;],&#34;tickvals&#34;:[1,2,3,4,5,6],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;Chemistry&#34;,&#34;Economics&#34;,&#34;Literature&#34;,&#34;Medicine&#34;,&#34;Peace&#34;,&#34;Physics&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;&#34;,&#34;font&#34;:{&#34;color&#34;:null,&#34;family&#34;:null,&#34;size&#34;:0}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[-11.35,238.35],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;0&#34;,&#34;50&#34;,&#34;100&#34;,&#34;150&#34;,&#34;200&#34;],&#34;tickvals&#34;:[0,50,100,150,200],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;0&#34;,&#34;50&#34;,&#34;100&#34;,&#34;150&#34;,&#34;200&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;count&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:false,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895}},&#34;hovermode&#34;:&#34;closest&#34;,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;1c444aa27ea8&#34;:{&#34;x&#34;:{},&#34;fill&#34;:{},&#34;type&#34;:&#34;bar&#34;}},&#34;cur_data&#34;:&#34;1c444aa27ea8&#34;,&#34;visdat&#34;:{&#34;1c444aa27ea8&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;I like to keep the plot clean, So I hide the Modebar of the plotly.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;nobel_plot &amp;lt;- ggplotly(nobelbar, tooltip = c(&amp;quot;fill&amp;quot;, &amp;quot;count&amp;quot;)) %&amp;gt;%
+  config(displayModeBar = F)
+nobel_plot
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[1],&#34;y&#34;:[194],&#34;text&#34;:&#34;count: 194&lt;br /&gt;category: Chemistry&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(102,194,165,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Chemistry&#34;,&#34;legendgroup&#34;:&#34;Chemistry&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[2],&#34;y&#34;:[83],&#34;text&#34;:&#34;count:  83&lt;br /&gt;category: Economics&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(252,141,98,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Economics&#34;,&#34;legendgroup&#34;:&#34;Economics&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[3],&#34;y&#34;:[113],&#34;text&#34;:&#34;count: 113&lt;br /&gt;category: Literature&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(141,160,203,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Literature&#34;,&#34;legendgroup&#34;:&#34;Literature&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[4],&#34;y&#34;:[227],&#34;text&#34;:&#34;count: 227&lt;br /&gt;category: Medicine&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(231,138,195,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Medicine&#34;,&#34;legendgroup&#34;:&#34;Medicine&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[5],&#34;y&#34;:[130],&#34;text&#34;:&#34;count: 130&lt;br /&gt;category: Peace&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(166,216,84,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Peace&#34;,&#34;legendgroup&#34;:&#34;Peace&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[6],&#34;y&#34;:[222],&#34;text&#34;:&#34;count: 222&lt;br /&gt;category: Physics&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(255,217,47,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Physics&#34;,&#34;legendgroup&#34;:&#34;Physics&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:43.7625570776256,&#34;r&#34;:7.30593607305936,&#34;b&#34;:25.5707762557078,&#34;l&#34;:43.1050228310502},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;title&#34;:{&#34;text&#34;:&#34;Number of Nobel prize winner by category&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:17.5342465753425},&#34;x&#34;:0,&#34;xref&#34;:&#34;paper&#34;},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.4,6.6],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;Chemistry&#34;,&#34;Economics&#34;,&#34;Literature&#34;,&#34;Medicine&#34;,&#34;Peace&#34;,&#34;Physics&#34;],&#34;tickvals&#34;:[1,2,3,4,5,6],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;Chemistry&#34;,&#34;Economics&#34;,&#34;Literature&#34;,&#34;Medicine&#34;,&#34;Peace&#34;,&#34;Physics&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;&#34;,&#34;font&#34;:{&#34;color&#34;:null,&#34;family&#34;:null,&#34;size&#34;:0}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[-11.35,238.35],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;0&#34;,&#34;50&#34;,&#34;100&#34;,&#34;150&#34;,&#34;200&#34;],&#34;tickvals&#34;:[0,50,100,150,200],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;0&#34;,&#34;50&#34;,&#34;100&#34;,&#34;150&#34;,&#34;200&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;count&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:false,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895}},&#34;hovermode&#34;:&#34;closest&#34;,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;1c441cca18ff&#34;:{&#34;x&#34;:{},&#34;fill&#34;:{},&#34;type&#34;:&#34;bar&#34;}},&#34;cur_data&#34;:&#34;1c441cca18ff&#34;,&#34;visdat&#34;:{&#34;1c441cca18ff&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;h3 id=&#34;save-the-plot&#34;&gt;Save the plot&lt;/h3&gt;
+&lt;p&gt;I can use this interactive plot in website, reports and also share with others. Let&amp;rsquo;s save it locally and we can share the HTML file.&lt;/p&gt;
+&lt;h3 id=&#34;wrapping-up&#34;&gt;Wrapping up&lt;/h3&gt;
+&lt;p&gt;At least we made the ggplot2 charts interactive using a single ggplotly() function. You can find lots of data in &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tidytuesday repo&lt;/a&gt; and create great visualization to show the insights.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Hack Day 2018</title>
+      <link>/post/local-hack-day-2018/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/local-hack-day-2018/</guid>
+      <description>&lt;p&gt;I organized &lt;a href=&#34;https://mlh.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLH&lt;/a&gt;  &lt;strong&gt;Local Hackday DataHackthon&lt;/strong&gt;  in &lt;a href=&#34;https://achsnepal.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACHS College&lt;/a&gt; on Dec 1st,2018. MLH Local Hackday Hackathon is 12 hours global event which is held on December 1 every year around the world. &lt;a href=&#34;&#34;&gt;RNepal&lt;/a&gt; was also one of the organizers of the MLH Local Hackday with the moto of&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learning, Building, Sharing.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-me-presenting&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack4.jpg&#34; data-caption=&#34;Me Presenting&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack4.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Me Presenting
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The DataHackthon was a learning platform where people learned about the data analysis and Data Science by working on some datasets which were provided by the organizer. The participants were divided into groups and worked on the data project.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack5.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack5.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Local Hack Day 2018
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I gave a presentation about data analysis and machine learning. How it is done and what the career prospects in this field. I also talked about the powerful R language and its role in Machine Learning and Data Science.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-slideshow-karaoke&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack6.jpg&#34; data-caption=&#34;SlideShow Karaoke&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack6.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    SlideShow Karaoke
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Slideshow Karaoke &lt;a href=&#34;https://twitter.com/hashtag/workshop?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#workshop&lt;/a&gt; from &lt;a href=&#34;https://twitter.com/MLHacks?ref_src=twsrc%5Etfw&#34;&gt;@MLHacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Data?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Data&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Hackathon&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/GitHubEducation?ref_src=twsrc%5Etfw&#34;&gt;@GitHubEducation&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/r4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4nepal&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://t.co/nrQ0fGoEa0&#34;&gt;pic.twitter.com/nrQ0fGoEa0&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1071235677403021313?ref_src=twsrc%5Etfw&#34;&gt;December 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack7.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack7.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Local Hack Day 2018
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;There were 40 participants in the event and they worked in a group to solve the data problem. They presented their insights using reports, graphs and presentation. Every group were given a certificate of participation in &lt;a href=&#34;https://mlh.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLH&lt;/a&gt;  Local HackDay DataHackthon by Data Scientist &lt;a href=&#34;https://www.linkedin.com/in/saurav-poudel-34a65688/?originalSubdomain=np&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saurav Paudel&lt;/a&gt;. There were some swags and stickers provided by the MLH team and we shared with participants and guest. Overall the event was successful and it was a great experience to organize such a great global event.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-group-photo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/preview1.jpg&#34; data-caption=&#34;Group Photo&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/preview1.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Group Photo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/rugnepal?ref_src=twsrc%5Etfw&#34;&gt;@rugnepal&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/RLadiesKtm?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesKtm&lt;/a&gt; organized &lt;a href=&#34;https://twitter.com/hashtag/Data?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Data&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Hackathon&lt;/a&gt; on &lt;a href=&#34;https://twitter.com/MLHacks?ref_src=twsrc%5Etfw&#34;&gt;@MLHacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; where participants with team analysed data using &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; and showed results. &lt;a href=&#34;https://twitter.com/GitHubEducation?ref_src=twsrc%5Etfw&#34;&gt;@GitHubEducation&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#100DaysOfCode&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/satRhacks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#satRhacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/datascience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#datascience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://t.co/zTweiukSDZ&#34;&gt;pic.twitter.com/zTweiukSDZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1069203779961131008?ref_src=twsrc%5Etfw&#34;&gt;December 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Organized Global Azure Bootcamp 2019</title>
+      <link>/post/global-azure-bootcamp-2019/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
+&lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;li&gt;Cognitive Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event was started by learning about the Cloud Computing from Binod Jung Bogati. He taught about the cloud computing , azure cloud and different services available in it.&lt;/p&gt;
+&lt;p&gt;I ran the Power Bi session , where i taught about data analysis using power bi. Partcipant learned   to load data in power bi and create different type of visualization. They also learned to make reports and dashboard using the Power bi tool.&lt;/p&gt;
+&lt;p&gt;Then, Ashim Rajbhandari ran the Azure Cognitive Services session. He spoke about  AI  and different services available in Cognitive  services like Speech ,Vision etc.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We shared Azure Credit worth $100  and some cool stickers. By the end of the bootcamp participants learned about cloud computing, data analysis, azure cognitive services and azure cloud.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Bundle</title>
+      <link>/post/new-bundle/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-bundle/</guid>
+      <description>
+&lt;link href=&#34;/post/new-bundle/index.en_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/new-bundle/index.en_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;&lt;strong&gt;??&lt;/strong&gt;&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/new-bundle/index.en_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(ggplot2)
+ggplot(cars) + geom_point(aes(speed,dist))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/new-bundle/index.en_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Witcher 3 API</title>
+      <link>/project/witcher-3-api/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/witcher-3-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access Modifier in C#</title>
+      <link>/post/access-modifier-in-c/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/access-modifier-in-c/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Access Modifier is the keyword which decide who can access  resource or object in a C# program. We can control the access level  of class, method , variables in a program using a access modifier.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are six Access Modifiers in C# which have different features and which give different levels of access to the object(class/method/variable) with which it is used.&lt;/p&gt;
+&lt;h2 id=&#34;public-access-modifier&#34;&gt;Public Access Modifier&lt;/h2&gt;
+&lt;p&gt;The objects(methods/properties) with public access modifiers can be accessed from anywhere in a project. There is no accessibility restriction for public access modifiers.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    class PublicMsg
+    {
+        // Accessible anywhere in program.
+        public string msg = &amp;quot;This is public message.&amp;quot;; 
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            var pMsg = new PublicMsg();
+            Console.WriteLine(pMsg.msg);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is public message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the above program  we declared &lt;em&gt;msg&lt;/em&gt; variable &lt;em&gt;public&lt;/em&gt; and accessed from another class &lt;em&gt;Program&lt;/em&gt;. As public access modifier has no restriction in its access level it can be accessed from anywhere in program i.e from another class, another assembly/namespace.&lt;/p&gt;
+&lt;h2 id=&#34;internal-access-modifier&#34;&gt;Internal Access Modifier&lt;/h2&gt;
+&lt;p&gt;The objects with internal access modifiers can be accessed from anywhere within the same assembly or namespaces.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    class InternalMsg
+    {
+        internal string msg = &amp;quot;This is internal message.&amp;quot;; 
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            var interMsg = new InternalMsg();
+            Console.WriteLine(interMsg.msg);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is internal message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the above code we declared msg variable internal and used in another class Program. As the object with internal access modifier can be accessed in anywhere in same assembly we got output without any error.&lt;/p&gt;
+&lt;h2 id=&#34;protected--access-modifier&#34;&gt;Protected  Access Modifier&lt;/h2&gt;
+&lt;p&gt;Protected access modifier limits the accessibility of objects within the class in which it is created or in the derived class.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    class ProtectedMsg
+    {
+        protected string msg = &amp;quot;This is protected message.&amp;quot;; 
+    }
+
+    class Program:ProtectedMsg
+    {
+        static void Main()
+        {
+            var proMsg = new Program();
+            // Accessible from derived class.
+            Console.WriteLine(proMsg.msg); 
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is protected message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the above code, we derived &lt;em&gt;Program&lt;/em&gt; class from &lt;em&gt;ProtectedMsg&lt;/em&gt; class and as &lt;em&gt;msg&lt;/em&gt; variable is within its access level we got output.
+Object with protected access modifier can also be accessed from another assembly from a derived class.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+     public class ProtectedMsg
+    {
+        protected  string msg = &amp;quot;This is protected  message.&amp;quot;;
+        static void Main()
+        {
+        }
+    }
+}
+
+// Another Assembly
+using CSharp_Access_Modifiers;
+using System;
+namespace AnotherAssembly
+{
+    class Program : ProtectedMsg
+    {
+        static void Main()
+        {
+            var anotherMsg = new Program();
+            Console.WriteLine(anotherMsg.msg);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is protected  message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;private-access-modifier&#34;&gt;Private Access Modifier&lt;/h2&gt;
+&lt;p&gt;The objects with private access modifiers can only be accessed by code in the same class so It is not accessible outside the class they are created. It is used to ensure &lt;em&gt;encapsulation&lt;/em&gt; in the program i.e process of hiding sensitive items from the user.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    class PrivateMsg
+    {
+        private string msg = &amp;quot;This is private message.&amp;quot;;
+        static void Main()
+        {
+            var prMsg = new PrivateMsg(); 
+            //accessing the variable with in the class 
+            Console.WriteLine(prMsg.msg);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is private message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Private access modifier has the least access level among all the six access modifier.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In C# access modifiers can be combined like combining protected and internal forms protected internal access modifier and likewise combining private protected form private protected access modifier.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;protected-internal-access-modifier&#34;&gt;Protected Internal Access Modifier&lt;/h2&gt;
+&lt;p&gt;The objects with protected internal access modifiers can only be accessed within the same assembly or from within derived classes from another assembly.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    public class ProtectedInternalMsg
+    {
+        protected internal string msg = &amp;quot;This is protected internal message.&amp;quot;;
+    }
+}
+
+// Another assembly 
+using CSharp_Access_Modifiers;
+using System;
+namespace AnotherAssembly
+{
+    class Program : ProtectedInternalMsg
+    {
+        static void Main()
+        {
+            var anotherMsg = new Program();
+            // Accessible from derived class in another assembly
+            Console.WriteLine(anotherMsg.msg); 
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is protected internal message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;private-protected-access-modifier&#34;&gt;Private protected Access Modifier&lt;/h2&gt;
+&lt;p&gt;The objects with private protected access modifiers can only be accessed from the same class or the derived class.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-csharp&#34;&gt;using System;
+namespace CSharp_Access_Modifiers
+{
+    class PrivateProtectedMsg
+    {
+        private protected  string msg = &amp;quot;This is private protected  message.&amp;quot;;
+    }
+
+    class Program:PrivateProtectedMsg
+    {
+        static void Main()
+        {
+            var prproMsg = new Program();
+            // accessible from base class or derived class only.
+            Console.WriteLine(prproMsg.msg); 
+
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Output:
+This is private protected  message.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Private Protected access modifier allows an object to be accessed from derived class in the same assembly. In the above code, &lt;em&gt;msg&lt;/em&gt; variable is accessed from &lt;em&gt;Program&lt;/em&gt; class which is derived from the &lt;em&gt;PrivateProtectedMsg&lt;/em&gt; class.&lt;/p&gt;
+&lt;h2 id=&#34;default-access-modifier&#34;&gt;Default Access Modifier&lt;/h2&gt;
+&lt;p&gt;When there is no access modifier is set , then a default access modifier will be used. Default Access Modifier is different for the&lt;br&gt;
+Default access modifier for &lt;em&gt;namespace, enum, interface&lt;/em&gt; is &lt;strong&gt;public&lt;/strong&gt; and their access modifier can&amp;rsquo;t be changed or set. The default access level for  &lt;em&gt;class, struct, method, variable&lt;/em&gt; is &lt;strong&gt;private&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here is the summary of accessibility level of the Access Modifier in C#:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Access Modifier&lt;/th&gt;
+&lt;th&gt;Entire Program&lt;/th&gt;
+&lt;th&gt;Base Class&lt;/th&gt;
+&lt;th&gt;Current Assembly&lt;/th&gt;
+&lt;th&gt;Derived Class in another assembly&lt;/th&gt;
+&lt;th&gt;Derived Class in current assembly&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Public&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Protected&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Internal&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Protected Internal&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private Protected&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So , that was all about the access modifiers in C#.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Readabli</title>
+      <link>/project/readabli/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/readabli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>कथाहरू(KathaHaru)</title>
+      <link>/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDG Report 2019</title>
+      <link>/project/sdg-report-2019/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/sdg-report-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organized Student Dev Hack</title>
+      <link>/post/organized-student-dev-hack/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/organized-student-dev-hack/</guid>
+      <description>&lt;p&gt;DataSansar Organized Student Dev Hack on Dec 7 2019. It was a hackathon for students who want to learn by working on real projects. The hackathon was organized in ACHS College Hall.&lt;/p&gt;
+&lt;p&gt;Student Dev Hack was an event for beginner coders/students who want to learn new things and create solutions for problems working in a team. The hackathon moto was:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learn Build Share&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The hackathon&amp;rsquo;s main focus was to solve problems related to tourism, education and health sector of Nepal.&lt;/p&gt;
+&lt;p&gt;Student Dev Hack was supported by Major League Hacking (MLH) and it was part of Local Hack Day Build.The event was also supported by Microsoft and Github.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-student-developers&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pbs.twimg.com/media/ELMiMr_U4AAo_fO?format=jpg&amp;amp;name=large&#34; data-caption=&#34;student developers&#34;&gt;
+
+
+  &lt;img src=&#34;https://pbs.twimg.com/media/ELMiMr_U4AAo_fO?format=jpg&amp;amp;name=large&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    student developers
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;opening&#34;&gt;Opening&lt;/h2&gt;
+&lt;p&gt;I started the session by welcoming the participants, judges and speakers. There were 40 participants from 10 different groups. I spoke about the Local Hack Day and introduced participants about the rules and regulations of the hackathon. I gave a talk about the Microsoft Cognitive Services and shared the Azure Credit worth $100 which was provided by Microsoft.Then participants started working on defining the problem and designing their solutions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hackers-in-the-work&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pbs.twimg.com/media/ELMiK2DUwAA3jnV?format=jpg&amp;amp;name=large&#34; data-caption=&#34;hackers in the work&#34;&gt;
+
+
+  &lt;img src=&#34;https://pbs.twimg.com/media/ELMiK2DUwAA3jnV?format=jpg&amp;amp;name=large&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    hackers in the work
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;keep-on-hacking&#34;&gt;Keep on Hacking&lt;/h2&gt;
+&lt;p&gt;There were 3 judges/mentors in the event:
+&lt;a href=&#34;https://www.facebook.com/bibek.koirala.3760&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibek Koirala&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/link2rn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milan Thapa&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/heyrabin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rabin Gaire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The judges presence in the event helped participant to learn new things and get idea from them. The mentors went to all participants group and asked about their problems and solution for the problem. They also provided suggestions to participants for their projects.&lt;/p&gt;
+&lt;p&gt;At 2 PM we welcomed our speaker — and he talked about Technology and students. Milan Thapa spoke about his journey and experience of winning the Imagine Cup 2018. Bibek Koirala also shared his Knowledge about blockchain technology.&lt;/p&gt;
+&lt;h2 id=&#34;solution-pitch&#34;&gt;Solution Pitch&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congrats team &lt;a href=&#34;https://twitter.com/hashtag/ASCOLGuys?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASCOLGuys&lt;/a&gt; on winning the Student Dev Hack at ACHS College, Kathmandu. Proud of you for taking the name of our college forward. &lt;br&gt;Also, many congratulations to &lt;a href=&#34;https://twitter.com/diwastha?ref_src=twsrc%5Etfw&#34;&gt;@diwastha&lt;/a&gt; for the successful event. It was a wonderful experience being a part of it.&lt;a href=&#34;https://twitter.com/hashtag/MSFTStudentPartner?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MSFTStudentPartner&lt;/a&gt; &lt;a href=&#34;https://t.co/Qoyu2hRjqY&#34;&gt;pic.twitter.com/Qoyu2hRjqY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sambhav Bhurtel - #MSFTStudentAmbassador🇳🇵 (@sambhavbhurtel) &lt;a href=&#34;https://twitter.com/sambhavbhurtel/status/1203350604967374848?ref_src=twsrc%5Etfw&#34;&gt;December 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;At 4 PM participants pitched their solution at the stage . The three judges selected Team &lt;em&gt;ASCOL Guys&lt;/em&gt; as winner of the Student Dev Hack. &lt;em&gt;ASCOL Guys&lt;/em&gt; created an app which can show the amount of calorie of a food using images. They used azure cognitive services to create the application.&lt;/p&gt;
+&lt;p&gt;We gave (T-Shirt and Bag) as a winning prize to Ascol Guys and shared lots of other swags provided by Microsoft ,MLH, Github with participants, judges, Volunteers and speakers.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-student-dev-hack&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pbs.twimg.com/media/ELMo_UOUUAAt7h4?format=jpg&amp;amp;name=medium&#34; data-caption=&#34;Student dev hack&#34;&gt;
+
+
+  &lt;img src=&#34;https://pbs.twimg.com/media/ELMo_UOUUAAt7h4?format=jpg&amp;amp;name=medium&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Student dev hack
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Student Dev Hack was successfully organized by DataSansar team.I learned about technology and event management from this hackathon. It was wonderful experience to be part of this great event.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Keep On Hacking&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solveathon 2019</title>
+      <link>/post/solveathon-2019/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/solveathon-2019/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Closing ceremony of &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt; is happening now. Open data expo is happening. We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team are showcasing NepalTourism Dashboard Project made with &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt;.&lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Kathmandu?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Kathmandu&lt;/a&gt; &lt;a href=&#34;https://t.co/LrD2wIJDBn&#34;&gt;pic.twitter.com/LrD2wIJDBn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206161486801854465?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We from DataSansar Team attended the Solveathon 2019 for solving social problems with data driven solutions.
+Solveathon 2019 was a two-day event, organized by the World Bank, The Asia Foundation and supported by the UKaid at the Kathmandu University School of Management on 14-15 December.&lt;/p&gt;
+&lt;p&gt;The event was organized to find the data driven solutions to social issues through community collaboration using the open data and open source technology.
+Our team consisted of three people i.e. Binod Jung Bogati, Diwash Shrestha, Prakriti Dhungana.&lt;/p&gt;
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Participants at pitching their &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; products at the closing of the first of its kind &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/data4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#data4nepal&lt;/a&gt; &lt;a href=&#34;https://t.co/ydahK3B4Zx&#34;&gt;pic.twitter.com/ydahK3B4Zx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liza Maharjan (@maharjan_liza) &lt;a href=&#34;https://twitter.com/maharjan_liza/status/1206140144635404288?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The first day of the event start by introducing with other participants and the organizers. The participants were divided in groups based on their projects.
+Our team was working on the tourism sector problem. As Visit Nepal 2020 was approaching, our team decided to work on the Nepal Tourism Dashboard Project. Our Project was to create a solution which can help governmental bodies in planning and decision-making around the tourism sector. Our team worked on the problem definition, solutions and possible beneficiaries. After designing the solution, we started coding the solution in Rstudio using R and data from the Nepal Tourism Board.&lt;/p&gt;
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;We built the prototype of our solution using R and Flexdashboard with different interactive visualizations and maps showing information about the tourism sector of Nepal.&lt;/p&gt;
+&lt;h2 id=&#34;closing&#34;&gt;Closing&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team built Nepal Tourism Dashboard at &lt;a href=&#34;https://twitter.com/hashtag/solvathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solvathon2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/DFIDNepal?ref_src=twsrc%5Etfw&#34;&gt;@DFIDNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/worldbankdata?ref_src=twsrc%5Etfw&#34;&gt;@worldbankdata&lt;/a&gt; &lt;a href=&#34;https://twitter.com/RaviNepal?ref_src=twsrc%5Etfw&#34;&gt;@RaviNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/bjungbogati?ref_src=twsrc%5Etfw&#34;&gt;@bjungbogati&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/prakriti50?ref_src=twsrc%5Etfw&#34;&gt;@prakriti50&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rugnepal?ref_src=twsrc%5Etfw&#34;&gt;@rugnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;br&gt;&lt;br&gt;Demo Link: &lt;a href=&#34;https://t.co/LJbayKZNdF&#34;&gt;https://t.co/LJbayKZNdF&lt;/a&gt; &lt;a href=&#34;https://t.co/QtdTKIKi06&#34;&gt;pic.twitter.com/QtdTKIKi06&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206166565432938497?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We pitched our idea at the front and showed the Nepal Tourism Dashboard prototype we built.
+Here is our prototype you can play with it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tidyweek</title>
+      <link>/post/tidyweek/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/tidyweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;R Nepal organized &lt;strong&gt;Tidyweek&lt;/strong&gt; - &lt;strong&gt;Data Analysis with R Bootcamp&lt;/strong&gt;. The Bootcamp was organized in ACHS college between Sep 20th-23rd, 2019.&lt;/p&gt;
+&lt;p&gt;There were 25 participants from various backgrounds (health, business, agriculture, academia). I and Binod Jung Bogati were the educator for the event.&lt;/p&gt;
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+&lt;p&gt;Binod spoke about the data analysis and process of data analysis. After that he taught the basic R and Rstudio.&lt;/p&gt;
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;Binod ran the Data import session where he taught participants to import different form of data in R. I ran Data Transformation session where I taught to transform data into different form and process into it.&lt;/p&gt;
+&lt;h2 id=&#34;day-3&#34;&gt;Day 3&lt;/h2&gt;
+&lt;p&gt;In third day of bootcamp, I taught participants about the data visualization using ggplot2 package. In this session participants learned to make different form of graphs for different type of data. After that, I ran statistic session where i taught about statistics using R. Participants got knowledge to do descriptive and inferential statistics using R language.&lt;/p&gt;
+&lt;h2 id=&#34;day-4&#34;&gt;Day 4&lt;/h2&gt;
+&lt;p&gt;In last day of bootcamp, Binod ran session about the communication and report generation . He created beuatifull reports using Rmarkdown, visualization and insights from previous session. He also spoke about the dashboard creation with flexdashboard and shiny.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;By the end of bootcamp participants were able to perform Import data , Transform data, Statistics, Visualization, Report creation with R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Academic supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; chart format.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+&lt;div id=&#34;chart-362491758&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-362491758&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-2&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-2&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-2&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection System</title>
+      <link>/project/credit-card-fraud-detection-system/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/credit-card-fraud-detection-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/medical-expense-predictor/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/medical-expense-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/nepal-provinical-dashboard/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nepal-provinical-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/copyofinternal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/copyofinternal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+&lt;link href=&#34;/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;&lt;strong&gt;??&lt;/strong&gt;&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(ggplot2)
+ggplot(cars) + geom_point(aes(speed,dist))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

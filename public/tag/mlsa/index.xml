@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLSA | Academic</title>
+    <link>/tag/mlsa/</link>
+      <atom:link href="/tag/mlsa/index.xml" rel="self" type="application/rss+xml" />
+    <description>MLSA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>MLSA</title>
+      <link>/tag/mlsa/</link>
+    </image>
+    
+    <item>
+      <title>Organized Global Azure Bootcamp 2019</title>
+      <link>/post/global-azure-bootcamp-2019/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
+&lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;li&gt;Cognitive Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event was started by learning about the Cloud Computing from Binod Jung Bogati. He taught about the cloud computing , azure cloud and different services available in it.&lt;/p&gt;
+&lt;p&gt;I ran the Power Bi session , where i taught about data analysis using power bi. Partcipant learned   to load data in power bi and create different type of visualization. They also learned to make reports and dashboard using the Power bi tool.&lt;/p&gt;
+&lt;p&gt;Then, Ashim Rajbhandari ran the Azure Cognitive Services session. He spoke about  AI  and different services available in Cognitive  services like Speech ,Vision etc.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We shared Azure Credit worth $100  and some cool stickers. By the end of the bootcamp participants learned about cloud computing, data analysis, azure cognitive services and azure cloud.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tidyweek</title>
+      <link>/post/tidyweek/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/tidyweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;R Nepal organized &lt;strong&gt;Tidyweek&lt;/strong&gt; - &lt;strong&gt;Data Analysis with R Bootcamp&lt;/strong&gt;. The Bootcamp was organized in ACHS college between Sep 20th-23rd, 2019.&lt;/p&gt;
+&lt;p&gt;There were 25 participants from various backgrounds (health, business, agriculture, academia). I and Binod Jung Bogati were the educator for the event.&lt;/p&gt;
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+&lt;p&gt;Binod spoke about the data analysis and process of data analysis. After that he taught the basic R and Rstudio.&lt;/p&gt;
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;Binod ran the Data import session where he taught participants to import different form of data in R. I ran Data Transformation session where I taught to transform data into different form and process into it.&lt;/p&gt;
+&lt;h2 id=&#34;day-3&#34;&gt;Day 3&lt;/h2&gt;
+&lt;p&gt;In third day of bootcamp, I taught participants about the data visualization using ggplot2 package. In this session participants learned to make different form of graphs for different type of data. After that, I ran statistic session where i taught about statistics using R. Participants got knowledge to do descriptive and inferential statistics using R language.&lt;/p&gt;
+&lt;h2 id=&#34;day-4&#34;&gt;Day 4&lt;/h2&gt;
+&lt;p&gt;In last day of bootcamp, Binod ran session about the communication and report generation . He created beuatifull reports using Rmarkdown, visualization and insights from previous session. He also spoke about the dashboard creation with flexdashboard and shiny.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;By the end of bootcamp participants were able to perform Import data , Transform data, Statistics, Visualization, Report creation with R.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

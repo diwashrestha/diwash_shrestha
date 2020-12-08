@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathmandu | Academic</title>
+    <link>/tag/kathmandu/</link>
+      <atom:link href="/tag/kathmandu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kathmandu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Kathmandu</title>
+      <link>/tag/kathmandu/</link>
+    </image>
+    
+    <item>
+      <title>Data Science with R Workshop</title>
+      <link>/post/data-science-with-r-workshop/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/data-science-with-r-workshop/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;p&gt;In day 1 I talked about the What is Data Science, How to do Data Science. I taught participants about R language, extract Data in R environment. Participants learned about the data cleaning process, data manipulation with &lt;a href=&#34;https://tidyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyr&lt;/a&gt;, &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dplyr&lt;/a&gt; package.&lt;/p&gt;
+&lt;h3 id=&#34;day-2&#34;&gt;Day 2&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Day 2&lt;br&gt;Data Analysis with R Workshop &lt;a href=&#34;https://twitter.com/hashtag/machinelearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#machinelearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/kathfest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#kathfest&lt;/a&gt; &lt;a href=&#34;https://t.co/j1QCHQzjMs&#34;&gt;pic.twitter.com/j1QCHQzjMs&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1076406490225958912?ref_src=twsrc%5Etfw&#34;&gt;December 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 2 I talked about the data visualization with ggplot2 and base R. Participants also learned about report creation using &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; and dashboard/application creation with &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flexdashboard&lt;/a&gt;  to show the insights.&lt;/p&gt;
+&lt;h3 id=&#34;day-3&#34;&gt;Day 3&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are organizing 3 Days Data Analysis with R workshop at kathford college. We will be talking about R, Data Analysis amd DataScience in these 3 days.&lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4ds?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4ds&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rst?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://t.co/d3MLXAnVm7&#34;&gt;pic.twitter.com/d3MLXAnVm7&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1075985595007156224?ref_src=twsrc%5Etfw&#34;&gt;December 21, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+In day 3 I talked about machine learning and  how to perform the machine learning in R. I also showed machine learning application made with shiny and R. &lt;a href=&#34;https://twitter.com/bjungbogati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Binod Jung Bogati&lt;/a&gt;  talked about the use of &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git&lt;/a&gt; and &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; in data science and programming.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By the end of workshop participants were able to extract or gain data, clean, manipulate, analyze, visualize and report all using R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Hack Day 2018</title>
+      <link>/post/local-hack-day-2018/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/local-hack-day-2018/</guid>
+      <description>&lt;p&gt;I organized &lt;a href=&#34;https://mlh.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLH&lt;/a&gt;  &lt;strong&gt;Local Hackday DataHackthon&lt;/strong&gt;  in &lt;a href=&#34;https://achsnepal.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACHS College&lt;/a&gt; on Dec 1st,2018. MLH Local Hackday Hackathon is 12 hours global event which is held on December 1 every year around the world. &lt;a href=&#34;&#34;&gt;RNepal&lt;/a&gt; was also one of the organizers of the MLH Local Hackday with the moto of&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Learning, Building, Sharing.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-me-presenting&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack4.jpg&#34; data-caption=&#34;Me Presenting&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack4.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Me Presenting
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The DataHackthon was a learning platform where people learned about the data analysis and Data Science by working on some datasets which were provided by the organizer. The participants were divided into groups and worked on the data project.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack5.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack5.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Local Hack Day 2018
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I gave a presentation about data analysis and machine learning. How it is done and what the career prospects in this field. I also talked about the powerful R language and its role in Machine Learning and Data Science.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-slideshow-karaoke&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack6.jpg&#34; data-caption=&#34;SlideShow Karaoke&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack6.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    SlideShow Karaoke
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Slideshow Karaoke &lt;a href=&#34;https://twitter.com/hashtag/workshop?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#workshop&lt;/a&gt; from &lt;a href=&#34;https://twitter.com/MLHacks?ref_src=twsrc%5Etfw&#34;&gt;@MLHacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Data?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Data&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Hackathon&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/GitHubEducation?ref_src=twsrc%5Etfw&#34;&gt;@GitHubEducation&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/r4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4nepal&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://t.co/nrQ0fGoEa0&#34;&gt;pic.twitter.com/nrQ0fGoEa0&lt;/a&gt;&lt;/p&gt;&amp;mdash; R User Group Nepal (@rugnepal) &lt;a href=&#34;https://twitter.com/rugnepal/status/1071235677403021313?ref_src=twsrc%5Etfw&#34;&gt;December 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack7.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/data_hack7.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Local Hack Day 2018
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;There were 40 participants in the event and they worked in a group to solve the data problem. They presented their insights using reports, graphs and presentation. Every group were given a certificate of participation in &lt;a href=&#34;https://mlh.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLH&lt;/a&gt;  Local HackDay DataHackthon by Data Scientist &lt;a href=&#34;https://www.linkedin.com/in/saurav-poudel-34a65688/?originalSubdomain=np&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saurav Paudel&lt;/a&gt;. There were some swags and stickers provided by the MLH team and we shared with participants and guest. Overall the event was successful and it was a great experience to organize such a great global event.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-group-photo&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/preview1.jpg&#34; data-caption=&#34;Group Photo&#34;&gt;
+
+
+  &lt;img src=&#34;/images/LHD_2018/preview1.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Group Photo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/rugnepal?ref_src=twsrc%5Etfw&#34;&gt;@rugnepal&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/RLadiesKtm?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesKtm&lt;/a&gt; organized &lt;a href=&#34;https://twitter.com/hashtag/Data?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Data&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Hackathon&lt;/a&gt; on &lt;a href=&#34;https://twitter.com/MLHacks?ref_src=twsrc%5Etfw&#34;&gt;@MLHacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; where participants with team analysed data using &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; and showed results. &lt;a href=&#34;https://twitter.com/GitHubEducation?ref_src=twsrc%5Etfw&#34;&gt;@GitHubEducation&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#100DaysOfCode&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalHackDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalHackDay&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/satRhacks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#satRhacks&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/r4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#r4nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/RUGnepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RUGnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/datascience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#datascience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataAnalytics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataAnalytics&lt;/a&gt; &lt;a href=&#34;https://t.co/zTweiukSDZ&#34;&gt;pic.twitter.com/zTweiukSDZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1069203779961131008?ref_src=twsrc%5Etfw&#34;&gt;December 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Solveathon 2019</title>
+      <link>/post/solveathon-2019/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/solveathon-2019/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Closing ceremony of &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt; is happening now. Open data expo is happening. We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team are showcasing NepalTourism Dashboard Project made with &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt;.&lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Kathmandu?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Kathmandu&lt;/a&gt; &lt;a href=&#34;https://t.co/LrD2wIJDBn&#34;&gt;pic.twitter.com/LrD2wIJDBn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206161486801854465?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We from DataSansar Team attended the Solveathon 2019 for solving social problems with data driven solutions.
+Solveathon 2019 was a two-day event, organized by the World Bank, The Asia Foundation and supported by the UKaid at the Kathmandu University School of Management on 14-15 December.&lt;/p&gt;
+&lt;p&gt;The event was organized to find the data driven solutions to social issues through community collaboration using the open data and open source technology.
+Our team consisted of three people i.e. Binod Jung Bogati, Diwash Shrestha, Prakriti Dhungana.&lt;/p&gt;
+&lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Participants at pitching their &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; products at the closing of the first of its kind &lt;a href=&#34;https://twitter.com/hashtag/solveathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solveathon2019&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/data4nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#data4nepal&lt;/a&gt; &lt;a href=&#34;https://t.co/ydahK3B4Zx&#34;&gt;pic.twitter.com/ydahK3B4Zx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Liza Maharjan (@maharjan_liza) &lt;a href=&#34;https://twitter.com/maharjan_liza/status/1206140144635404288?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The first day of the event start by introducing with other participants and the organizers. The participants were divided in groups based on their projects.
+Our team was working on the tourism sector problem. As Visit Nepal 2020 was approaching, our team decided to work on the Nepal Tourism Dashboard Project. Our Project was to create a solution which can help governmental bodies in planning and decision-making around the tourism sector. Our team worked on the problem definition, solutions and possible beneficiaries. After designing the solution, we started coding the solution in Rstudio using R and data from the Nepal Tourism Board.&lt;/p&gt;
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;p&gt;We built the prototype of our solution using R and Flexdashboard with different interactive visualizations and maps showing information about the tourism sector of Nepal.&lt;/p&gt;
+&lt;h2 id=&#34;closing&#34;&gt;Closing&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We &lt;a href=&#34;https://twitter.com/DataSansar?ref_src=twsrc%5Etfw&#34;&gt;@datasansar&lt;/a&gt; team built Nepal Tourism Dashboard at &lt;a href=&#34;https://twitter.com/hashtag/solvathon2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#solvathon2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/DFIDNepal?ref_src=twsrc%5Etfw&#34;&gt;@DFIDNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/worldbankdata?ref_src=twsrc%5Etfw&#34;&gt;@worldbankdata&lt;/a&gt; &lt;a href=&#34;https://twitter.com/RaviNepal?ref_src=twsrc%5Etfw&#34;&gt;@RaviNepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/bjungbogati?ref_src=twsrc%5Etfw&#34;&gt;@bjungbogati&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/prakriti50?ref_src=twsrc%5Etfw&#34;&gt;@prakriti50&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rugnepal?ref_src=twsrc%5Etfw&#34;&gt;@rugnepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/VisitNepal2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#VisitNepal2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Nepal?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Nepal&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/hackathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#hackathon&lt;/a&gt; &lt;br&gt;&lt;br&gt;Demo Link: &lt;a href=&#34;https://t.co/LJbayKZNdF&#34;&gt;https://t.co/LJbayKZNdF&lt;/a&gt; &lt;a href=&#34;https://t.co/QtdTKIKi06&#34;&gt;pic.twitter.com/QtdTKIKi06&lt;/a&gt;&lt;/p&gt;&amp;mdash; Diwash Shrestha 🇳🇵 👨🏽‍💻 (@diwastha) &lt;a href=&#34;https://twitter.com/diwastha/status/1206166565432938497?ref_src=twsrc%5Etfw&#34;&gt;December 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We pitched our idea at the front and showed the Nepal Tourism Dashboard prototype we built.
+Here is our prototype you can play with it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
