@@ -1,0 +1,221 @@
+---
+title: Basic Statistics with R
+author: diwashrestha
+date: '2020-11-29'
+categories:
+  - R
+  - Statistics
+tags:
+  - R Programming
+  - Statistics
+draft: false
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-11-29T18:00:00+05:45'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+diagram: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In this post i will discuss about the statistics with R.This will be divided in to two blog posts.
+
+### Introduction
+
+Statistics is a branch of mathematics working with data collection, organization, analysis, interpretation and presentation.Statistics is very important in Data Analysis ,Data Science and AI.
+
+In this post we will learn about the descriptive statistics with R.
+
+### Descriptive Statistics
+
+Descriptive Statistics is used to summarize the data and it focuses on Distribution , the central tendancy and dispersion of the data . In this section we will learn to work on 
+
+* Distribution 
+* Central tendancy 
+* Dispersion
+
+### Measures for central tendency
+
+Central tendency is a measure that best summarizes the data and is a measure that is related to the center of the data set.Mean, median, and mode are the most common measures for central tendency.
+
+We will use mtcars dataset from the datasets package in R.
+
+```{r}
+head(mtcars)
+```
+
+### Mean
+
+The mean is the average of the data. It is the sum of all data divided by the number of data points.
+<b><i> mean()</i> </b> function gives the mean of the data.
+
+```{r}
+## mean of the mpg column
+mean(mtcars$mpg)
+```
+
+### Median
+
+The median is the Middle or midpoint of the data and is also the 50 percentile of the data. The median is not affected by the outliers and skewness of the data.
+<b> Median() </b> function is used to get Median.
+
+```{r}
+## median of the cyl
+median(mtcars$cyl)
+```
+
+### Mode
+
+Mode is a value in data that has highest frequency and useful when the differences are non-numeric and seldom occur.
+
+```{r}
+ y <- table(mtcars$gear)
+```
+
+```{r}
+names(y)[which(y ==max(y))]
+```
+
+"3" is the mode of the gear column.
+
+
+### Measures of variability
+
+Measure of variability are the measures of the spread of the data. It can be range ,interquartile range, variance, standard deviation.
+
+### Range
+Range is the difference between the largest and smallest points in the data.
+<i> <b> range() </b> </i> function is used to find the range in R.
+
+```{r}
+range(mtcars$disp)
+```
+
+
+
+### Interquartile Range
+
+The interquartile range is the measure of the difference between the 75 percentile or third quartile and the 25 percentile or first quartile.
+<b><i> IQR()</i></b> function is used to get interquartile Range in R.
+
+```{r}
+## IQR of sugar 
+IQR(mtcars$wt)
+```
+
+<b><i> quantile()</i></b> function is used to get quartiles in R.
+
+```{r}
+## quartile of the sugar
+quantile(mtcars$am)
+```
+
+We can get the 25 and 75 percentiles of sugar in data.
+
+```{r}
+quantile(mtcars$mpg, 0.25)
+```
+
+```{r}
+quantile(mtcars$mpg, 0.75)
+```
+
+### Variance
+
+The variance is the average of squared differences from the mean and it is used to measure the spreadness of the data.
+<b> <i>var()</i> </b> function is used to find the sample variance in R.
+
+```{r}
+var(mtcars$mpg)
+```
+
+<i><b> var()</i></b> and (N-1)/N is used to find the population variance.
+
+```{r}
+N <- nrow(mtcars)
+var(mtcars$mpg) * (N -1) / N
+```
+
+### Standard  Deviation
+
+The standard deviation is the square root of a variance and it measures the spread of the data.
+
+<i><b>sd()</i></b> is used to find the sample standard deviation of a dataset.
+
+```{r}
+## standard deviation of the calcium
+sd(mtcars$mpg)
+```
+
+### Normal Distribution
+
+
+Normal distribution is one of the most important theories because nearly all statistical tests require the data to be distributed normally.
+We can plot a distribution in R using <b><i> hist()</i></b> function.
+
+```{r}
+hist(mtcars$mpg, breaks = 15)
+```
+
+<b><i> qqnorm() </i></b> and <b><i>qqline</i></b> functions are used to find whether data is normally distributed.
+
+```{r}
+qqnorm(mtcars$mpg)
+qqline(mtcars$mpg)
+```
+
+If the points do not deviate away from the line , the data is normally distributed.
+
+### Modality
+
+The modality of a distribution is determined by the number of peaks it contains.
+
+```{r}
+hist(mtcars$mpg, breaks = 15)
+```
+
+### Skewness and Kurtosis
+
+Skewness is a measurement of the symmetry of a distribution and how much the distribution is different from the normal distribution.
+Negative Skew is alos known as left skewed and positive skew is also known as right skewed. Th histogram from the previous section has a positive skew.
+
+
+Kurtosis measures whether your dataset is heavy-tailed or light-tailed compared to a normal distribution. High Kurtosis means heavy tailed , so there are more outliers in the data.
+To find the kurtosis and skewness in R , we need moments package.
+
+```{r}
+library(moments)
+
+## skewness of the total_fat
+skewness(mtcars$mpg)
+
+## Kurtosis of the total fat
+kurtosis(mtcars$mpg)
+```
+
+
+### summary() and str() function
+
+The summary() and str() function are the fastest ways to get descriptive statistics of the data.
+We can get the basic descriptive statistics using the <b><i>summary()</b></i> function.
+
+```{r}
+summary(mtcars)
+```
+
+We can get the structure of the data using the str() function.
+
+```{r}
+str(mtcars)
+```
+
+In this blog i wrote about the basic or descriptive statistics with R. In another blog i will write about the inferential part of statistics which is very important used mostly in research and analysis.
