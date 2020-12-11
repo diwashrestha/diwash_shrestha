@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>/project/virtual-piano/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/web-development/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -213,12 +218,12 @@
   </url>
   
   <url>
-    <loc>/project/sdg-report-2019/</loc>
+    <loc>/tag/data-visualization/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/shiny/</loc>
+    <loc>/project/sdg-report-2019/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -323,32 +328,12 @@
   </url>
   
   <url>
-    <loc>/project/medical-expense-predictor/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/nepal-provinical-dashboard/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/copyofinternal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r/</loc>
+    <loc>/project/medical-expense-predictor/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

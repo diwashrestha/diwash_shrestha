@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://github.com/diwashrestha/Medical_Expense_Predictor
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: This uses linear regression algorithm to predict the year Medical Expense using the given input.
 tags:
-- Demo
-title: External Project
+- Machine Learning
+title: Medical Expense Predictor
 ---

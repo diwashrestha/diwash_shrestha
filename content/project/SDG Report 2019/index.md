@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: This is a interactive visualization of the SDG 2019 report. It shows the levels at which the country are on 17 different Sustainable Goals.
 tags:
-- Shiny
+- Data Visualization
 title: SDG Report 2019
 ---
