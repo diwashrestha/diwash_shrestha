@@ -49,12 +49,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "Power BI"
   description = "80%"
-  
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Excel"
-  description = "80%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
