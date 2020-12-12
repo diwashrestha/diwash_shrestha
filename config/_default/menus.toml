@@ -6,20 +6,26 @@
 
 
 [[main]]
-  name = "Posts"
-  url = https://dataison.netlify.app/
+  name = "Blogs"
+  url = "https://dataison.netlify.app/"
   weight = 20
+
+
+
+[[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
   weight = 40
 
+[[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 50  
 
 [[main]]
   name = "Contact"

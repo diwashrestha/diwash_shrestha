@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "* Advanced"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"

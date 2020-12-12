@@ -42,7 +42,7 @@ Hello, my name is Diwash Shrestha.
 I am Data Scientist, Educator and Co-Founder of RNepal. I am Gold Microsoft Learn Student Ambassador, Microsoft Innovative Educator and Ambassador of AngelHack.
 
  
-My area of speciality is data analysis, data visualization and data driven app development. diwashrestha contains blog about my love for coding and community.
+My area of speciality is data analysis, data visualization and data driven software development. diwashrestha contains blog about my love for coding and community.
 
 I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing community tech events.
 
