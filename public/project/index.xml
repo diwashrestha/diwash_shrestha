@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Bake Shop</title>
+      <link>/project/bake-shop/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/bake-shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Readabli</title>
       <link>/project/readabli/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -61,18 +69,18 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/nepal-provinical-dashboard/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/nepal-provinical-dashboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Medical Expense Predictor</title>
       <link>/project/medical-expense-predictor/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/medical-expense-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal Provincial Dashboard</title>
+      <link>/project/nepal-provinical-dashboard/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nepal-provinical-dashboard/</guid>
       <description></description>
     </item>
     

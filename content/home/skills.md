@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "80%"
+  description = "* Advanced"
   
 [[feature]]
   icon = "chart-line"
@@ -31,6 +31,30 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "60%"  
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Machine Learning"
+  description = "60%"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "C#"
+  description = "50%"  
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Power BI"
+  description = "80%"
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Excel"
+  description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

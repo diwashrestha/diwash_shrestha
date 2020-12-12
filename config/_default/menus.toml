@@ -7,7 +7,7 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = https://dataison.netlify.app/
   weight = 20
 
 [[main]]

@@ -934,6 +934,14 @@ Default access modifier for &lt;em&gt;namespace, enum, interface&lt;/em&gt; is &
     </item>
     
     <item>
+      <title>Bake Shop</title>
+      <link>/project/bake-shop/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/bake-shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Readabli</title>
       <link>/project/readabli/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -1190,7 +1198,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-457826913&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-391254678&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1200,7 +1208,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-457826913&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-391254678&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1630,18 +1638,18 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/nepal-provinical-dashboard/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/nepal-provinical-dashboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Medical Expense Predictor</title>
       <link>/project/medical-expense-predictor/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/medical-expense-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal Provincial Dashboard</title>
+      <link>/project/nepal-provinical-dashboard/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nepal-provinical-dashboard/</guid>
       <description></description>
     </item>
     

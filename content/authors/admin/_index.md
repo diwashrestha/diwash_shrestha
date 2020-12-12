@@ -2,25 +2,19 @@
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science and Information Technology
+    institution: Asian College of Higher Studies
+    year: 2020
 email: ""
-highlight_name: false
+highlight_name: true
 interests:
 - Data Science
 - Data Visualization
-- Software Engineering
+- Software Development
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Human Assisted AI
+  url: https://www.humanassisted.ai/
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas

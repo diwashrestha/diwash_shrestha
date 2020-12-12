@@ -5,6 +5,11 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@500&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9286,3 +9291,15 @@ div.chart {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+.navbar-light .navbar-brand {
+  font-family: 'Oswald', sans-serif; }
+
+h1 {
+  font-family: 'Fjalla One', sans-serif; }
+
+h2, h3 {
+  font-family: 'Nunito Sans', sans-serif; }
+
+body {
+  font-family: 'Nunito Sans', sans-serif; }
