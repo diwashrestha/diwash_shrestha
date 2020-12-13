@@ -33,22 +33,22 @@ subtitle = ""
   description = "Know basic of Python programming for data.<br> Used for machine learning model creation"  
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Machine Learning"
-  description = "60%"  
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"
+  description = "Know data visualization using ggplot2 and plotly"  
 
 [[feature]]
-  icon = "python"
+  icon = "cloud"
   icon_pack = "fab"
   name = "C#"
   description = "50%"  
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Power BI"
-  description = "80%"
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Azure"
+  description = "Capable of working on Azure SQL DB,App services, Azure ML Services"
 
 
 # Uncomment to use emoji icons.
