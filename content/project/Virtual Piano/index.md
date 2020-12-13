@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: This is virtual piano where user can use the keyboards key to play the music.
 tags:
-- Web Development
+- Fun
 title: Virtual Piano
 ---

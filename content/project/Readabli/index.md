@@ -1,6 +1,6 @@
 ---
 date: "2020-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://github.com/diwashrestha/Readability_Check
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart

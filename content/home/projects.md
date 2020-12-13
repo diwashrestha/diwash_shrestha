@@ -25,9 +25,6 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Data  Science"
-    tag = "Data Science"
     
   [[content.filter_button]]
     name = "Data Visualization"
@@ -41,6 +38,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
+    
+    
+  [[content.filter_button]]
+    name = "Fun"
+    tag = "Fun"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

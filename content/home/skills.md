@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced"
+  description = "Know Intermediate level of R Programing.<br>Used for data analysis and dashboard creation."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
+  description = "Knowledge of the statistics"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"  
+  description = "Know basic of Python programming for data.<br> Used for machine learning model creation"  
   
 [[feature]]
   icon = "python"
