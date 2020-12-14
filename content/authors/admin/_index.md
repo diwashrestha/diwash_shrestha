@@ -37,11 +37,8 @@ user_groups:
 - Principal Investigators
 ---
 
-Hello, my name is Diwash Shrestha.
-
 I am Data Scientist at [Human Assisted AI](https://www.humanassisted.ai/), Educator and Co-Founder of [RNepal](https://www.facebook.com/RUGNepal). I am Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/), Microsoft Innovative Educator and [ AngelHack Ambassador](https://angelhack.com/ambassadors/).
 
 
- 
-My area of speciality is data analysis, data visualization and data driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events.
+I love playing with data and sharing the knowledge and insights using visualization, infographics and shiny apps. My area of speciality is data analysis, data visualization and data-driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events
 
