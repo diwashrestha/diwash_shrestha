@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Diwashrestha</title>
-    <link>/tag/machine-learning/</link>
-      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/machine-learning/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Machine Learning</title>
-      <link>/tag/machine-learning/</link>
+      <link>https://diwashrestha.com.np/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Credit Card Fraud Detection System</title>
-      <link>/project/credit-card-fraud-detection-system/</link>
+      <link>https://diwashrestha.com.np/project/credit-card-fraud-detection-system/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/credit-card-fraud-detection-system/</guid>
+      <guid>https://diwashrestha.com.np/project/credit-card-fraud-detection-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Expense Predictor</title>
-      <link>/project/medical-expense-predictor/</link>
+      <link>https://diwashrestha.com.np/project/medical-expense-predictor/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/medical-expense-predictor/</guid>
+      <guid>https://diwashrestha.com.np/project/medical-expense-predictor/</guid>
       <description></description>
     </item>
     

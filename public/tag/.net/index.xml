@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.Net | Diwashrestha</title>
-    <link>/tag/.net/</link>
-      <atom:link href="/tag/.net/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/.net/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/.net/index.xml" rel="self" type="application/rss+xml" />
     <description>.Net</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>.Net</title>
-      <link>/tag/.net/</link>
+      <link>https://diwashrestha.com.np/tag/.net/</link>
     </image>
     
     <item>
       <title>Access Modifier in C#</title>
-      <link>/post/access-modifier-in-c/</link>
+      <link>https://diwashrestha.com.np/post/access-modifier-in-c/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/access-modifier-in-c/</guid>
+      <guid>https://diwashrestha.com.np/post/access-modifier-in-c/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Access Modifier is the keyword which decide who can access  resource or object in a C# program. We can control the access level  of class, method , variables in a program using a access modifier.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;

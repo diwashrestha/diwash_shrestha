@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics | Diwashrestha</title>
-    <link>/tag/statistics/</link>
-      <atom:link href="/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/statistics/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Statistics</title>
-      <link>/tag/statistics/</link>
+      <link>https://diwashrestha.com.np/tag/statistics/</link>
     </image>
     
     <item>
       <title>Basic Statistics with R</title>
-      <link>/post/2020-11-29-basic-statistics-with-r/</link>
+      <link>https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-11-29-basic-statistics-with-r/</guid>
+      <guid>https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/</guid>
       <description>
-&lt;link href=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;In this post i will discuss about the statistics with R.This will be divided in to two blog posts.&lt;/p&gt;
@@ -129,18 +129,18 @@ sd(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Normal distribution is one of the most important theories because nearly all statistical tests require the data to be distributed normally.
 We can plot a distribution in R using &lt;b&gt;&lt;i&gt; hist()&lt;/i&gt;&lt;/b&gt; function.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-14-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;i&gt; qqnorm() &lt;/i&gt;&lt;/b&gt; and &lt;b&gt;&lt;i&gt;qqline&lt;/i&gt;&lt;/b&gt; functions are used to find whether data is normally distributed.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;qqnorm(mtcars$mpg)
 qqline(mtcars$mpg)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-15-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;If the points do not deviate away from the line , the data is normally distributed.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;modality&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Modality&lt;/h3&gt;
 &lt;p&gt;The modality of a distribution is determined by the number of peaks it contains.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(mtcars$mpg, breaks = 15)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-16-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://diwashrestha.com.np/post/2020-11-29-basic-statistics-with-r/index_files/figure-html/unnamed-chunk-16-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;skewness-and-kurtosis&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Skewness and Kurtosis&lt;/h3&gt;

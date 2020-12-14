@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bootcamp | Diwashrestha</title>
-    <link>/tag/bootcamp/</link>
-      <atom:link href="/tag/bootcamp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/bootcamp/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/bootcamp/index.xml" rel="self" type="application/rss+xml" />
     <description>Bootcamp</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Bootcamp</title>
-      <link>/tag/bootcamp/</link>
+      <link>https://diwashrestha.com.np/tag/bootcamp/</link>
     </image>
     
     <item>
       <title>Data Science with R Workshop</title>
-      <link>/post/data-science-with-r-workshop/</link>
+      <link>https://diwashrestha.com.np/post/data-science-with-r-workshop/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/data-science-with-r-workshop/</guid>
+      <guid>https://diwashrestha.com.np/post/data-science-with-r-workshop/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
@@ -39,9 +39,9 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
     
     <item>
       <title>Local Hack Day 2018</title>
-      <link>/post/local-hack-day-2018/</link>
+      <link>https://diwashrestha.com.np/post/local-hack-day-2018/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/local-hack-day-2018/</guid>
+      <guid>https://diwashrestha.com.np/post/local-hack-day-2018/</guid>
       <description>&lt;p&gt;I organized &lt;a href=&#34;https://mlh.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLH&lt;/a&gt;  &lt;strong&gt;Local Hackday DataHackthon&lt;/strong&gt;  in &lt;a href=&#34;https://achsnepal.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACHS College&lt;/a&gt; on Dec 1st,2018. MLH Local Hackday Hackathon is 12 hours global event which is held on December 1 every year around the world. &lt;a href=&#34;&#34;&gt;RNepal&lt;/a&gt; was also one of the organizers of the MLH Local Hackday with the moto of&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Learning, Building, Sharing.&lt;/strong&gt;&lt;/p&gt;
@@ -67,10 +67,10 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
 &lt;figure id=&#34;figure-me-presenting&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack4.jpg&#34; data-caption=&#34;Me Presenting&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack4.jpg&#34; data-caption=&#34;Me Presenting&#34;&gt;
 
 
-  &lt;img src=&#34;/images/LHD_2018/data_hack4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -105,10 +105,10 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
 &lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack5.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack5.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
 
 
-  &lt;img src=&#34;/images/LHD_2018/data_hack5.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack5.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -143,10 +143,10 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
 &lt;figure id=&#34;figure-slideshow-karaoke&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack6.jpg&#34; data-caption=&#34;SlideShow Karaoke&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack6.jpg&#34; data-caption=&#34;SlideShow Karaoke&#34;&gt;
 
 
-  &lt;img src=&#34;/images/LHD_2018/data_hack6.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack6.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -183,10 +183,10 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
 &lt;figure id=&#34;figure-local-hack-day-2018&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/data_hack7.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack7.jpg&#34; data-caption=&#34;Local Hack Day 2018&#34;&gt;
 
 
-  &lt;img src=&#34;/images/LHD_2018/data_hack7.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://diwashrestha.com.np/images/LHD_2018/data_hack7.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -221,10 +221,10 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
 &lt;figure id=&#34;figure-group-photo&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/images/LHD_2018/preview1.jpg&#34; data-caption=&#34;Group Photo&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://diwashrestha.com.np/images/LHD_2018/preview1.jpg&#34; data-caption=&#34;Group Photo&#34;&gt;
 
 
-  &lt;img src=&#34;/images/LHD_2018/preview1.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://diwashrestha.com.np/images/LHD_2018/preview1.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -245,9 +245,9 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
     
     <item>
       <title>Organized Global Azure Bootcamp 2019</title>
-      <link>/post/global-azure-bootcamp-2019/</link>
+      <link>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <guid>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</guid>
       <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
 &lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
 &lt;ul&gt;

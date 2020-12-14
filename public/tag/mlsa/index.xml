@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLSA | Diwashrestha</title>
-    <link>/tag/mlsa/</link>
-      <atom:link href="/tag/mlsa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/mlsa/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/mlsa/index.xml" rel="self" type="application/rss+xml" />
     <description>MLSA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>MLSA</title>
-      <link>/tag/mlsa/</link>
+      <link>https://diwashrestha.com.np/tag/mlsa/</link>
     </image>
     
     <item>
       <title>Organized Global Azure Bootcamp 2019</title>
-      <link>/post/global-azure-bootcamp-2019/</link>
+      <link>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <guid>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</guid>
       <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
 &lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
 &lt;ul&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Tidyweek</title>
-      <link>/post/tidyweek/</link>
+      <link>https://diwashrestha.com.np/post/tidyweek/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/tidyweek/</guid>
+      <guid>https://diwashrestha.com.np/post/tidyweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;R Nepal organized &lt;strong&gt;Tidyweek&lt;/strong&gt; - &lt;strong&gt;Data Analysis with R Bootcamp&lt;/strong&gt;. The Bootcamp was organized in ACHS college between Sep 20th-23rd, 2019.&lt;/p&gt;
 &lt;p&gt;There were 25 participants from various backgrounds (health, business, agriculture, academia). I and Binod Jung Bogati were the educator for the event.&lt;/p&gt;

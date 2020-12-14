@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Diwashrestha</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/project/</link>
+      <atom:link href="https://diwashrestha.com.np/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://diwashrestha.com.np/project/</link>
     </image>
     
     <item>
       <title>Witcher 3 API</title>
-      <link>/project/witcher-3-api/</link>
+      <link>https://diwashrestha.com.np/project/witcher-3-api/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/witcher-3-api/</guid>
+      <guid>https://diwashrestha.com.np/project/witcher-3-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bake Shop</title>
-      <link>/project/bake-shop/</link>
+      <link>https://diwashrestha.com.np/project/bake-shop/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/bake-shop/</guid>
+      <guid>https://diwashrestha.com.np/project/bake-shop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Readabli</title>
-      <link>/project/readabli/</link>
+      <link>https://diwashrestha.com.np/project/readabli/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/readabli/</guid>
+      <guid>https://diwashrestha.com.np/project/readabli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Piano</title>
-      <link>/project/virtual-piano/</link>
+      <link>https://diwashrestha.com.np/project/virtual-piano/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/virtual-piano/</guid>
+      <guid>https://diwashrestha.com.np/project/virtual-piano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>कथाहरू</title>
-      <link>/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</link>
+      <link>https://diwashrestha.com.np/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</guid>
+      <guid>https://diwashrestha.com.np/project/%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%B9%E0%A4%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SDG Report 2019</title>
-      <link>/project/sdg-report-2019/</link>
+      <link>https://diwashrestha.com.np/project/sdg-report-2019/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/sdg-report-2019/</guid>
+      <guid>https://diwashrestha.com.np/project/sdg-report-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nepal Provincial Dashboard</title>
-      <link>/project/nepal-provinical-dashboard/</link>
+      <link>https://diwashrestha.com.np/project/nepal-provinical-dashboard/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/nepal-provinical-dashboard/</guid>
+      <guid>https://diwashrestha.com.np/project/nepal-provinical-dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nepal Provincial Dashboard</title>
-      <link>/project/nepal-tourism-dashboard/</link>
+      <link>https://diwashrestha.com.np/project/nepal-tourism-dashboard/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/nepal-tourism-dashboard/</guid>
+      <guid>https://diwashrestha.com.np/project/nepal-tourism-dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Credit Card Fraud Detection System</title>
-      <link>/project/credit-card-fraud-detection-system/</link>
+      <link>https://diwashrestha.com.np/project/credit-card-fraud-detection-system/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/credit-card-fraud-detection-system/</guid>
+      <guid>https://diwashrestha.com.np/project/credit-card-fraud-detection-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Expense Predictor</title>
-      <link>/project/medical-expense-predictor/</link>
+      <link>https://diwashrestha.com.np/project/medical-expense-predictor/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/medical-expense-predictor/</guid>
+      <guid>https://diwashrestha.com.np/project/medical-expense-predictor/</guid>
       <description></description>
     </item>
     

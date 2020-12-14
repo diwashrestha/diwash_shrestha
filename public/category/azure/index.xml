@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azure | Diwashrestha</title>
-    <link>/category/azure/</link>
-      <atom:link href="/category/azure/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/category/azure/</link>
+      <atom:link href="https://diwashrestha.com.np/category/azure/index.xml" rel="self" type="application/rss+xml" />
     <description>Azure</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Azure</title>
-      <link>/category/azure/</link>
+      <link>https://diwashrestha.com.np/category/azure/</link>
     </image>
     
     <item>
       <title>Organized Global Azure Bootcamp 2019</title>
-      <link>/post/global-azure-bootcamp-2019/</link>
+      <link>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/global-azure-bootcamp-2019/</guid>
+      <guid>https://diwashrestha.com.np/post/global-azure-bootcamp-2019/</guid>
       <description>&lt;p&gt;DataSansar also organized Global Azure Bootcamp 2019 at ACHS College.Global Azure Bootcamp is global event for learning about Microsoft Azure and Cloud Computing which is organized in multiple locations globally and anually. The event was supported by microsoft and github.&lt;/p&gt;
 &lt;p&gt;The Bootcamp ran into  three session by different speakers:&lt;/p&gt;
 &lt;ul&gt;

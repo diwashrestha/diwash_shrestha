@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization | Diwashrestha</title>
-    <link>/category/data-visualization/</link>
-      <atom:link href="/category/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/category/data-visualization/</link>
+      <atom:link href="https://diwashrestha.com.np/category/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Data Visualization</title>
-      <link>/category/data-visualization/</link>
+      <link>https://diwashrestha.com.np/category/data-visualization/</link>
     </image>
     
     <item>
       <title>Data Science with R Workshop</title>
-      <link>/post/data-science-with-r-workshop/</link>
+      <link>https://diwashrestha.com.np/post/data-science-with-r-workshop/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/data-science-with-r-workshop/</guid>
+      <guid>https://diwashrestha.com.np/post/data-science-with-r-workshop/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/RUGNepal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNepal&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/kathfest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest&lt;/a&gt; collaborated to organize the 3 days “Data Science with R” workshop. This workshop was held in &lt;a href=&#34;https://kathford.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathford Engineering College&lt;/a&gt; on occasion of the &lt;a href=&#34;https://twitter.com/kathfest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathfest 2019&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;There were 15 participants from the kathford college studying bachelor in computer engineering. I talked about data Science, steps and skills needed to do data science.&lt;/p&gt;
@@ -39,27 +39,27 @@ In day 3 I talked about machine learning and  how to perform the machine learnin
     
     <item>
       <title>Interactive Visualization With ggplot2 and Plotly</title>
-      <link>/post/interactive-visualization-with-ggplot2-and-plotly/</link>
+      <link>https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/post/interactive-visualization-with-ggplot2-and-plotly/</guid>
-      <description>&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/css/pagedtable.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/js/pagedtable.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+      <guid>https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/</guid>
+      <description>&lt;link href=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/css/pagedtable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/pagedtable-1.1/js/pagedtable.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/htmlwidgets-1.5.2/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-binding-4.9.2.1/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/typedarray-0.1/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/jquery-1.11.3/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/crosstalk-1.1.0.1/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/plotly-main-1.52.2/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;I love to work with data while analysing the data, I like to explore it and for that best thing is to visualize the data. I create a visualization to show the information or finding from the analysis. For this task, I use the ggplot2 package from the Tidyverse Universe.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;plot.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GGplot2&lt;/a&gt; is powerful visualization package based on   &lt;a href=&#34;https://www.springer.com/gp/book/9780387245447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The grammar of graphics&lt;/a&gt; and part of &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt;. It is easy to use and powerful to create any type of visualization. The problem is it can only make beautiful static visualization.&lt;/p&gt;
@@ -92,7 +92,7 @@ library(plotly) # interactive data visualization
 
 nobelbar
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://diwashrestha.com.np/post/interactive-visualization-with-ggplot2-and-plotly/index.en_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;make-ggplot-interactive&#34;&gt;Make ggplot interactive&lt;/h3&gt;
 &lt;p&gt;I will pass the ggplot to the ggplotly function from plotly package, which creates an interactive graph.&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;ggplotly(nobelbar, tooltip = c(&amp;quot;fill&amp;quot;, &amp;quot;count&amp;quot;))

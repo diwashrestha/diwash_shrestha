@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Diwashrestha
-baseurl: /
+baseurl: https://diwashrestha.com.np/
 copyright: '© Diwash Shrestha 2020'
 enableGitInfo: no
 defaultContentLanguage: en

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack Day | Diwashrestha</title>
-    <link>/tag/hack-day/</link>
-      <atom:link href="/tag/hack-day/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://diwashrestha.com.np/tag/hack-day/</link>
+      <atom:link href="https://diwashrestha.com.np/tag/hack-day/index.xml" rel="self" type="application/rss+xml" />
     <description>Hack Day</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Hack Day</title>
-      <link>/tag/hack-day/</link>
+      <link>https://diwashrestha.com.np/tag/hack-day/</link>
     </image>
     
     <item>
       <title>Organized Student Dev Hack</title>
-      <link>/post/organized-student-dev-hack/</link>
+      <link>https://diwashrestha.com.np/post/organized-student-dev-hack/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/organized-student-dev-hack/</guid>
+      <guid>https://diwashrestha.com.np/post/organized-student-dev-hack/</guid>
       <description>&lt;p&gt;DataSansar Organized Student Dev Hack on Dec 7 2019. It was a hackathon for students who want to learn by working on real projects. The hackathon was organized in ACHS College Hall.&lt;/p&gt;
 &lt;p&gt;Student Dev Hack was an event for beginner coders/students who want to learn new things and create solutions for problems working in a team. The hackathon moto was:&lt;/p&gt;
 &lt;blockquote&gt;
