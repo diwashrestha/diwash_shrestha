@@ -110,8 +110,8 @@ email = "diwash.shrestha@outlook.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "linkedin", icon_pack = "fab", name = "Connect", link = "skype:echo123?call"}
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/diwastha"},
+  {icon = "linkedin", icon_pack = "fab", name = "Connect", link = "https://www.linkedin.com/in/shresthadiwash/"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

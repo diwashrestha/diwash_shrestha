@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun | Diwashrestha</title>
+    <link>/tag/fun/</link>
+      <atom:link href="/tag/fun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
+      <title>Fun</title>
+      <link>/tag/fun/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Piano</title>
+      <link>/project/virtual-piano/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/virtual-piano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

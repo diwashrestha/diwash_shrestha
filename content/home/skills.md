@@ -21,10 +21,12 @@ subtitle = ""
   description = "Know Intermediate level of R Programing.<br>Used for data analysis and dashboard creation."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "Knowledge of the statistics"  
+  name = "Data Visualization"
+  description = "Know data visualization using ggplot2 and plotly" 
+  
+
   
 [[feature]]
   icon = "python"
@@ -33,22 +35,23 @@ subtitle = ""
   description = "Know basic of Python programming for data.<br> Used for machine learning model creation"  
   
 [[feature]]
-  icon = "chart-area"
+  icon = "database"
   icon_pack = "fas"
-  name = "Data Visualization"
-  description = "Know data visualization using ggplot2 and plotly"  
+  name = "SQL"
+  description = "Capable of data extraction , manipulation"  
+
 
 [[feature]]
-  icon = "cloud"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "C#"
-  description = "50%"  
+  name = "Shiny"
+  description = "Capable of creating  Data Driven Application and dashboard with Shiny"  
 
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
   name = "Azure"
-  description = "Capable of working on Azure SQL DB,App services, Azure ML Services"
+  description = "Capable of working on Azure SQL DB,App services, Azure Machine Learning"
 
 
 # Uncomment to use emoji icons.

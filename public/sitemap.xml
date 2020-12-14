@@ -168,7 +168,7 @@
   </url>
   
   <url>
-    <loc>/tag/software-development/</loc>
+    <loc>/tag/web-development/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,17 +203,17 @@
   </url>
   
   <url>
+    <loc>/tag/fun/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/readabli/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/virtual-piano/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/web-development/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -265,6 +265,16 @@
   <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nepal-provinical-dashboard/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nepal-tourism-dashboard/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -329,12 +339,7 @@
   
   <url>
     <loc>/project/medical-expense-predictor/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/nepal-provinical-dashboard/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

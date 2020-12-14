@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
@@ -61,6 +61,22 @@
     </item>
     
     <item>
+      <title>Nepal Provincial Dashboard</title>
+      <link>/project/nepal-provinical-dashboard/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/nepal-provinical-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal Provincial Dashboard</title>
+      <link>/project/nepal-tourism-dashboard/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/nepal-tourism-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Credit Card Fraud Detection System</title>
       <link>/project/credit-card-fraud-detection-system/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
@@ -71,16 +87,8 @@
     <item>
       <title>Medical Expense Predictor</title>
       <link>/project/medical-expense-predictor/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/project/medical-expense-predictor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nepal Provincial Dashboard</title>
-      <link>/project/nepal-provinical-dashboard/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/nepal-provinical-dashboard/</guid>
       <description></description>
     </item>
     

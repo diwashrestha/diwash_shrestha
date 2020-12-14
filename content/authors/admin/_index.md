@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Scientist and Educator
 education:
   courses:
   - course: BSc in Computer Science and Information Technology
@@ -39,12 +39,9 @@ user_groups:
 
 Hello, my name is Diwash Shrestha.
 
-I am Data Scientist, Educator and Co-Founder of RNepal. I am Gold Microsoft Learn Student Ambassador, Microsoft Innovative Educator and Ambassador of AngelHack.
+I am Data Scientist at [Human Assisted AI](https://www.humanassisted.ai/), Educator and Co-Founder of [RNepal](https://www.facebook.com/RUGNepal). I am Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/), Microsoft Innovative Educator and [ AngelHack Ambassador](https://angelhack.com/ambassadors/).
+
 
  
-My area of speciality is data analysis, data visualization and data driven software development. diwashrestha contains blog about my love for coding and community.
+My area of speciality is data analysis, data visualization and data driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events.
 
-I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing community tech events.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
