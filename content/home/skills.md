@@ -38,7 +38,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Capable of data extraction , manipulation"  
+  description = "Capable of data extraction, manipulation using SQL"  
 
 
 [[feature]]

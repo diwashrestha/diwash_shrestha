@@ -25,13 +25,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: HummanAssisted AI 
+- company: Reduct Nepal
   company_url: "https://www.humanassisted.ai/"
   date_end: ""
   date_start: "2020-06-01"
   description: |-
     Responsibilities include:
-    * Analysing
+    * Analyzing
     * Finding Insights
     * Report Creation
   location: Kathmandu
