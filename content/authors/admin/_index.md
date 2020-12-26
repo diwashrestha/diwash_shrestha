@@ -31,6 +31,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/shrestha__diwash/
+- icon: medium
+  icon_pack: fab
+  link: https://diwashrestha.medium.com/
 superuser: true
 title: Diwash Shrestha
 user_groups:
