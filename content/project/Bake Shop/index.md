@@ -1,6 +1,6 @@
 ---
 date: "2020-04-27T00:00:00Z"
-external_link: https://kathaharu.netlify.app/
+external_link: https://github.com/diwashrestha/BakeShop
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart

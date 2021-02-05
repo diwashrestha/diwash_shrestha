@@ -9313,3 +9313,9 @@ body {
 
 footer {
   margin: 2em 0; }
+
+.media.stream-item {
+  margin-bottom: 2rem;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  border-radius: .25rem;
+  padding: .5em; }

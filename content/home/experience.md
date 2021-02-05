@@ -31,9 +31,9 @@ experience:
   date_start: "2020-06-01"
   description: |-
     Responsibilities include:
-    * Analyzing
-    * Finding Insights
-    * Report Creation
+    * Analyse data, find insights, create interactive, engaging graphics and reports with R
+    * Create weekly reports and presentations 
+    * Built Realtime analytical dashboard using R, Shiny, Mongodb  which automated the reporting process
   location: Kathmandu
   title: Data Scientist
 - company: Microsoft 
@@ -42,10 +42,9 @@ experience:
   date_start: "2019-04-01"
   description: |-
     Responsibilities include:
-    * work with student tech community 
-    * provide resources to student community
-    * organize tech events
-  location: Kathmandu Nepal
+    * Organize tech events for students related to technology like Cloud Computing, Machine Learning, Web development, etc.
+    * Provide resources to students sent by Microsoft and other community
+    * Collaborate with other tech communities and tech enthusiasts to organize and to participate in tech events
   title: Microsoft Learn Student Ambassador
 - company: Volunteers Initiative Nepal 
   company_url: "https://www.volunteersinitiativenepal.org/"
@@ -53,8 +52,10 @@ experience:
   date_start: "2019-12-01"
   description: |-
     Responsibilities include:
-    * Analysing historical data
-    * Dashboard creation
+    * Extracted historical data stored in multiple files 
+    * Cleaned & analysed data with R
+    * Created an interactive data dashboard using the historical data with R
+    * Automated the yearly report generation process
   location: Kathmandu
   title: Data Analyst
 - company: R User Group Nepal
@@ -63,8 +64,9 @@ experience:
   date_start: "2018-08-01"
   description:  |- 
     Responsibilities include:
-    * Organize events like bootcamp & hackathon 
-    * R and Data Science Training
+    * Instructed hundreds of students  through offline and online events for  Data Science, Machine Learning and R Language
+    * Conducted hackathon for a group of 100+ students
+    * Organized Hacktoberfest workshop  to empower open source spirit
   location: Kathmandu  Nepal
   title: Community Lead
 - company: Sarathi Cab
@@ -73,10 +75,9 @@ experience:
   date_start: "2017-12-01"
   description: |-
     Responsibilities include:
-    * Data Cleaning
-    * Analysing
-    * Finding Insights
-    * Reporting
+    * Worked on data extraction from multiple sources using SQL, R, Python
+    * Cleaned & analysed data, created reports with engaging graphics
+    * Created a real time dashboard using R, Shiny, Plotly which automated report generation
   location: Kathmandu  Nepal
   title: Data Analyst
 - company: Programiz
