@@ -5,7 +5,7 @@
     <link>https://diwashrestha.com.np/</link>
       <atom:link href="https://diwashrestha.com.np/index.xml" rel="self" type="application/rss+xml" />
     <description>Diwashrestha</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Diwash Shrestha 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://diwashrestha.com.np/images/icon_hu528a9464a9f5266ddef30324cae00832_2364_512x512_fill_lanczos_center_2.png</url>
       <title>Diwashrestha</title>
@@ -1198,7 +1198,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-259361478&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-523967841&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1208,7 +1208,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-259361478&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-523967841&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
