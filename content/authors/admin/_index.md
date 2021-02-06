@@ -12,7 +12,7 @@ interests:
 - Data Visualization
 - Software Development
 organizations:
-- name: Human Assisted AI
+- name: Reduct Nepal
   url: https://www.humanassisted.ai/
 role: Data Scientist
 social:
