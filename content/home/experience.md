@@ -31,7 +31,7 @@ experience:
   date_start: "2020-06-01"
   description: |-
     Responsibilities include:
-    * Analyse data, find insights, create interactive, engaging graphics and reports with R
+    * Analyze data, find insights, create interactive, engaging graphics and reports with R
     * Create weekly reports and presentations 
     * Built Realtime analytical dashboard using R, Shiny, Mongodb  which automated the reporting process
   location: Kathmandu
@@ -45,7 +45,7 @@ experience:
     * Organize tech events for students related to technology like Cloud Computing, Machine Learning, Web development, etc.
     * Provide resources to students sent by Microsoft and other community
     * Collaborate with other tech communities and tech enthusiasts to organize and to participate in tech events
-  title: Microsoft Learn Student Ambassador
+  title: Microsoft Learn Student Ambassador (GOLD)
 - company: Volunteers Initiative Nepal 
   company_url: "https://www.volunteersinitiativenepal.org/"
   date_end: "2020-02-15"
