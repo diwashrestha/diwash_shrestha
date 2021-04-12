@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
+- certificate_url: https://drive.google.com/file/d/1eCB9HZAsLnLXgeFxcy7A9X7VCkwk7fOq/view?usp=sharing
+  date_end: ""
+  date_start: "2021-03-31"
+  description: ""
+  organization: Linkedin Learning
+  organization_url: https://www.linkedin.com/learning/
+  title: Master R for Data Science
+  url: "https://www.linkedin.com/learning/"
 - certificate_url: https://drive.google.com/file/d/1PvIv9i7ahLBfjHjDcc9I7LeekIb-k7uT/view?usp=sharing
   date_end: ""
   date_start: "2017-10-06"
