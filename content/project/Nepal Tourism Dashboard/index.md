@@ -7,5 +7,5 @@ image:
 summary: Nepal Tourism Dashboard was created as a solution which can help governmental bodies in planning and decision-making around the tourism sector on the Solveathon 2019.
 tags:
 - Data Visualization
-title: Nepal Provincial Dashboard
+title: Nepal Tourism Dashboard
 ---

@@ -40,8 +40,8 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Data Scientist at Reduct Nepal, Transcription and Translation company. I am also a Educator and Co-Founder of [RNepal Community ](https://www.facebook.com/RUGNepal), Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/), Microsoft Innovative Educator and [ AngelHack Ambassador](https://angelhack.com/ambassadors/).
+I am Data Scientist at Reduct Nepal, Transcription and Translation company. I am also a Educator and Co-Founder of [RNepal Community ](https://www.facebook.com/RUGNepal), Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) and Microsoft Innovative Educator.
 
 
-I love playing with data and sharing the knowledge and insights using visualization, infographics and shiny apps. My area of specialty is data analysis, data visualization and data-driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events.
+I like to process data and share the knowledge and insights using visualization, infographics and web application. My area of specialty is data analysis, data visualization and data-driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events.
 
