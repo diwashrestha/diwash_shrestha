@@ -10,6 +10,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Lora:wght@500&family=Poppins:wght@300;400;500&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7240,7 +7241,7 @@ ul.task-list li input[type="checkbox"] {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -9293,19 +9294,19 @@ html[dir="rtl"] body {
   text-align: right; }
 
 .navbar-light .navbar-brand {
-  font-family: 'Oswald', sans-serif; }
+  font-family: 'Poppins', sans-serif; }
 
 h1 {
-  font-family: 'Fjalla One', sans-serif; }
+  font-family: 'Poppins', sans-serif; }
 
 h2, h3 {
-  font-family: 'Nunito Sans', sans-serif; }
+  font-family: 'Poppins', sans-serif; }
 
 body {
-  font-family: 'Nunito Sans', sans-serif; }
+  font-family: 'Lato', sans-serif; }
 
 .nav-item {
-  font-family: 'Oswald', sans-serif; }
+  font-family: 'Poppins', sans-serif; }
 
 .powered-by {
   font-size: 0.67rem;
