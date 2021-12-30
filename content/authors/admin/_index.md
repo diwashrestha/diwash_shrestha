@@ -8,7 +8,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Data Science
+- Data Science / Statistics
 - Data Visualization
 - Software Development
 organizations:
@@ -40,8 +40,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Data Scientist at Reduct Nepal, Transcription and Translation company. I am also a Educator and Co-Founder of [RNepal Community ](https://www.facebook.com/RUGNepal), Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) and Microsoft Innovative Educator.
+I am Data Scientist at Reduct Nepal, Transcription and Translation company where I build data infrastructure and extract data insights to support decision making. My areas of expertise include analytics, data visualization and data-driven software development.
 
-
-I like to process data and share the knowledge and insights using visualization, infographics and web application. My area of specialty is data analysis, data visualization and data-driven software development. I do quite a bit of community work and public speaking, you can find me in Kathmandu organizing and participating in community tech events.
+My hobbies are reading 📚books, 🖍️drawing, playing 🕹️games. I also enjoy learning about technology related to Data Science and sharing my knowledge. You can find me in Kathmandu organizing and participating in community tech events.
 

@@ -37,9 +37,19 @@ experience:
     * Preparing reports to show insights for executive and project teams
   location: Kathmandu
   title: Data Scientist
+- company: King’s College Nepal, Westcliff University
+  company_url: "https://www.kingscollege.edu.np/"
+  date_end: "2021-09-30"
+  date_start: "2021-06-01"
+  description: |-
+
+    * Developed and designed 2 months “Data Science” course as per the curriculum
+    * Taught and mentored 30 students for Data: Collection, Ethics, Cleaning, Processing, Analysis and Visualization with R Language
+  location: Kathmandu
+  title: Data Science Trainer
 - company: Microsoft 
   company_url: "https://studentambassadors.microsoft.com/"
-  date_end: ""
+  date_end: "2020-12-10"
   date_start: "2019-04-01"
   description: |-
     Responsibilities include:
