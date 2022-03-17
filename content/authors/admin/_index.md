@@ -12,8 +12,8 @@ interests:
 - Data Visualization
 - Software Development
 organizations:
-- name: Reduct Nepal
-  url: https://www.humanassisted.ai/
+- name: ""
+  url: ""
 role: Data Scientist
 social:
 - icon: envelope
@@ -40,7 +40,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Data Scientist at Reduct Nepal, Transcription and Translation company where I build data infrastructure and extract data insights to support decision making. My areas of expertise include analytics, data visualization and data-driven software development.
+Hi👋!, I am Diwash Shrestha. I help companies to make impactful data-driven decisions by extracting insights utilizing  Analytics and Machine Learning techniques. My specificity is in analytics, machine learning, data visualization and data-driven software development.
 
-My hobbies are reading 📚books, 🖍️drawing, playing 🕹️games. I also enjoy learning about technology related to Data Science and sharing my knowledge. You can find me in Kathmandu organizing and participating in community tech events.
+I enjoy learning about technology related to Data Science and playing around with interesting new  R and Python Packages. My hobbies are reading 📚books, 🖍️drawing, playing 🕹️games.
 
