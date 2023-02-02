@@ -40,6 +40,8 @@ user_groups:
 - Principal Investigators
 ---
 
-Greetings 🙏 👋 ! I am Diwash Shrestha, a seasoned data scientist and AI practitioner who is passionate about using analytics and machine learning to drive meaningful business results. I bring a unique perspective to each project I work on, thanks to my extensive experience in data-driven software development and diverse background in a variety of industries. My expertise includes data analysis, insight generation, and the creation of sophisticated machine learning models, all to provide value to my clients and drive results. When I'm not working, I like to learn about 📚 history, play 🕹️ video games, and 🖍️ keep up with emerging technologies and industry trends.
+Greetings 🙏 👋 ! I am Diwash Shrestha, a seasoned data scientist and AI practitioner who is passionate about using analytics and machine learning to drive meaningful business results. I bring a unique perspective to each project I work on, thanks to my extensive experience in data-driven software development and diverse background in a variety of industries. My expertise includes data analysis, insight generation, and the creation of sophisticated machine learning models, all to provide value to my clients and drive results. 
+
+Whether it's through reading books or exploring new tools and techniques, I'm always looking for ways to broaden my knowledge and skills in the ever-changing field of data science and AI. When I'm not working, I like to learn about 📚 history, play 🕹️ video games, and 🖍️ keep up with emerging technologies and industry trends.
 
 
