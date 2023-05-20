@@ -8,5 +8,5 @@ summary: This project utilize a Convolutional Neural Network (CNN) model to iden
 
 tags:
 - Machine Learning
-title: Bake Shop
+title: Road Quality Detector
 ---
