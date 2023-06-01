@@ -14,9 +14,10 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Data Science / Statistics
-- Data Visualization
-- Software Development
+- Applied Statistics
+- Analytical App Development
+- Computer Vision
+- Applied Machine Learning 
 organizations:
 - name: ""
   url: ""
