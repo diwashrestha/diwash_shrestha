@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-regular fa-function"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and deploying them effectively to address complex business challenges."
@@ -41,7 +41,7 @@ subtitle = ""
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
 [[feature]]
-  icon = "chart-simple"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Dashboard"
   description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
