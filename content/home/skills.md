@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-regular fa-function"
   icon_pack = "fas"
-  name = "Applied Machine Learning"
+  name = "Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and deploying them effectively to address complex business challenges."
 
 [[feature]]
