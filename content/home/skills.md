@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-area"
+  icon = "line-chart"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and deploying them effectively to address complex business challenges."
