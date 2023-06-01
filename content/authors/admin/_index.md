@@ -3,8 +3,9 @@ bio: Data Scientist and Educator
 education:
   courses:
   - course: MSc in Artificial Intelligence and Data Science
-    institution: Deggendorf Institute of Technology, Deggendorf, Germany
+    institution: Deggendorf Institute of Technology
     year: 2022 - Present
+    
   - course: BSc in Computer Science and Information Technology
     institution: Asian College of Higher Studies
     year: 2020
