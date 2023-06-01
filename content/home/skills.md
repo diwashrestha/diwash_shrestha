@@ -43,7 +43,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-user"
   icon_pack = "fas"
-  name = "Dashboard 📊"
+  name = "Dashboard"
   description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
 
 
