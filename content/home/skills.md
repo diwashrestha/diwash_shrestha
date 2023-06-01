@@ -15,43 +15,37 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "function"
+  icon_pack = "fas"
+  name = "Applied Machine Learning"
+  description = "Specialize in developing high-performing ML and DL models and <br> deploying them effectively to address complex business challenges."
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python 🐍"
+  description = "Knowledge of Python programming for data science.<br> Used for data analysis and app development" 
+  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Know Intermediate level of R Programing.<br>Used for data analysis and dashboard creation."
+  description = "Know Intermediate level of R Programing.<br> Used for data analysis and dashboard creation."
+  
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Data Visualization"
-  description = "Know data visualization using ggplot2 and plotly" 
-  
+  name = "Data Analysis"
+  description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
-  
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Know basic of Python programming for data.<br> Used for machine learning model creation"  
-  
-[[feature]]
-  icon = "database"
+  icon = "chart-mixed-up-circle-currency"
   icon_pack = "fas"
-  name = "Database"
-  description = "Capable of data extraction, manipulation using SQL. Worked on MongoDB and PostgreSQL"  
+  name = "Dashboard 📊"
+  description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
 
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Shiny"
-  description = "Capable of creating  Data Driven Application and dashboard with Shiny"  
-
-[[feature]]
-  icon = "cloud"
-  icon_pack = "fas"
-  name = "Azure"
-  description = "Capable of working on Azure SQL DB,App services, Azure Machine Learning"
 
 
 # Uncomment to use emoji icons.
