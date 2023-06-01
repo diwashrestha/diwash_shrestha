@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "function"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Applied Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and <br> deploying them effectively to address complex business challenges."
 
@@ -41,7 +41,7 @@ subtitle = ""
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
 [[feature]]
-  icon = "chart-mixed-up-circle-currency"
+  icon = "chart-user"
   icon_pack = "fas"
   name = "Dashboard 📊"
   description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
