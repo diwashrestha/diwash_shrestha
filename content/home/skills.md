@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python 🐍"
+  name = "Python"
   description = "Knowledge of Python programming for data science.<br> Used for data analysis and app development" 
   
 
