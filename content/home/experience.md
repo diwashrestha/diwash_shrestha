@@ -25,24 +25,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
+- company: Eurosecur S.R.O
+  company_url: "https://www.eurosecur.cz/en/"
+  date_end: "present"
+  date_start: "2023-01-03"
+  description: |-
+    Responsibilities include:
+    * Designed and developed a real-time face recognition system using deep learning models
+    * Collaborated with a cross-functional team to integrate computer vision into robotic applications
+  location: Ceske Budejovice, Czechia
+  title: AI Software Developer
 - company: Reduct Nepal
   company_url: "https://www.humanassisted.ai/"
   date_end: "2022-02-25"
   date_start: "2020-06-01"
   description: |-
     Responsibilities include:
-    * Identifying and collecting data from different sources
-    * Analyzing data to find answers to specific questions
-    * Generating information and insights from data sets
-    * Preparing reports to show insights for executive and project teams
-  location: Kathmandu
+    * Cleaned and preprocessed data, ensuring quality and integrity for analysis
+    * Created dynamic reports and dashboards with R, Shiny, and Highcharter for executive and project teams
+    * Collaborated with HR and Operations to integrate insights into organizational decision-making
+  location: Kathmandu, Nepal
   title: Data Scientist
 - company: King’s College Nepal, Westcliff University
   company_url: "https://www.kingscollege.edu.np/"
   date_end: "2021-09-30"
   date_start: "2021-06-01"
   description: |-
-
     * Developed and designed 2 months “Data Science” course as per the curriculum
     * Taught and mentored 30 students for Data: Collection, Ethics, Cleaning, Processing, Analysis and Visualization with R Language
   location: Kathmandu
@@ -62,19 +70,17 @@ experience:
   date_end: "2020-02-15"
   date_start: "2019-12-01"
   description: |-
-
     * Extracted historical data stored in multiple files 
     * Cleaned & analysed data with R
     * Created an interactive data dashboard using the historical data with R
     * Automated the yearly report generation process
   location: Kathmandu
-  title: Data Analyst
+  title: Data Analyst Internship
 - company: R User Group Nepal
   company_url: "https://www.facebook.com/RUGNepal"
   date_end: "2020-01-15"
   date_start: "2018-08-01"
   description:  |- 
-
     * Instructed hundreds of students  through offline and online events for  Data Science, Machine Learning and R Language
     * Conducted hackathon for a group of 100+ students
     * Organized Hacktoberfest workshop  to empower open source spirit
@@ -85,17 +91,9 @@ experience:
   date_end: "2018-04-20"
   date_start: "2017-12-01"
   description: |-
-
     * Worked on data extraction from multiple sources using SQL, R, Python
     * Cleaned & analysed data, created reports with engaging graphics
     * Created a real time dashboard using R, Shiny, Plotly which automated report generation
   location: Kathmandu  Nepal
-  title: Data Analyst
-- company: Programiz
-  company_url: "https://www.programiz.com/"
-  date_end: "2018-01-15"
-  date_start: "2017-10-01"
-  description: Wrote python tutorial for beginners
-  location: Kathmandu  Nepal
-  title: Content Writer 
+  title: Data Analyst Internship
 ---
