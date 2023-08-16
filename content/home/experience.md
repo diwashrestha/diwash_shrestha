@@ -27,8 +27,8 @@ date_format: Jan 2006
 experience:
 - company: Reduct Nepal
   company_url: "https://www.humanassisted.ai/"
-  date_end: "2022-02-25"
-  date_start: "2020-06-01"
+  date_end: ""
+  date_start: "2023-01-01"
   description: |-
     * Cleaned and preprocessed data, ensuring quality and integrity for analysis
     * Created dynamic reports and dashboards with R, Shiny, and Highcharter for executive and project teams
