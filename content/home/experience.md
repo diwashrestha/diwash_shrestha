@@ -25,16 +25,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: Reduct Nepal
-  company_url: "https://www.humanassisted.ai/"
+- company: Eurosecur SRO
+  company_url: "https://www.eurosecur.cz/en/"
   date_end: ""
-  date_start: "2023-01-01"
+  date_start: "2023-01-03"
   description: |-
-    * Cleaned and preprocessed data, ensuring quality and integrity for analysis
-    * Created dynamic reports and dashboards with R, Shiny, and Highcharter for executive and project teams
-    * Collaborated with HR and Operations to integrate insights into organizational decision-making
-  location: Kathmandu, Nepal
-  title: Data Scientist
+    * Designed and developed a real-time face recognition system using deep learning models
+    * Collaborated with a cross-functional team to integrate computer vision into robotic applications
+  location: Ceske Budejovice, Czechia
+  title: AI Software Developer
 - company: Reduct Nepal
   company_url: "https://www.humanassisted.ai/"
   date_end: "2022-02-25"
