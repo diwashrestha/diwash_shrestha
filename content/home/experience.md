@@ -30,10 +30,19 @@ experience:
   date_end: ""
   date_start: "2023-01-03"
   description: |-
-    * Designed and developed a real-time face recognition system using deep learning models
-    * Collaborated with a cross-functional team to integrate computer vision into robotic applications
+    * Design and develop a real-time face recognition system using deep learning models
+    * Collaborate with a cross-functional team to integrate computer vision into robotic applications
   location: Ceske Budejovice, Czechia
   title: AI Software Developer
+- company: Programiz
+  company_url: "https://www.programiz.com/"
+  date_end: "2022-02-25"
+  date_start: "2020-09-01"
+  description: |-
+    * Led A/B tests and analyzed user behavior to enhance website conversions
+    * Conducted in-depth analysis of sales and marketing KPIs for the flagship product, Programiz Pro, and designed an analytical dashboard
+  location: Kathmandu, Nepal
+  title: Data Scientist
 - company: Reduct Nepal
   company_url: "https://www.humanassisted.ai/"
   date_end: "2022-02-25"
@@ -51,7 +60,7 @@ experience:
   description: |-
     * Developed and designed 2 months “Data Science” course as per the curriculum
     * Taught and mentored 30 students for Data: Collection, Ethics, Cleaning, Processing, Analysis and Visualization with R Language
-  location: Kathmandu
+  location: Kathmandu, Nepal
   title: Data Science Trainer
 - company: Microsoft 
   company_url: "https://studentambassadors.microsoft.com/"
