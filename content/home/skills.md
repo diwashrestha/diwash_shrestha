@@ -15,28 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
+  icon = "🤖🧠"
+  icon_pack = "emoji"
   name = "Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and deploying them effectively to address complex business challenges."
   
   
 [[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
+  icon = "🔍📊"
+  icon_pack = "emoji"
   name = "Data Analytics"
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
 [[feature]]
-  icon = "fa-gauge-simple"
-  icon_pack = "fas"
+  icon = "📈💻"
+  icon_pack = "emoji"
   name = "Dashboard"
   description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
 
 
 
 # Uncomment to use emoji icons.
-[[feature]]
+#[[feature]]
 icon = "🔍📊📈📉📑"
 icon_pack = "emoji"
 name = "Emojiness"
