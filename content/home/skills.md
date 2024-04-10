@@ -36,7 +36,7 @@ subtitle = ""
 
 
 # Uncomment to use emoji icons.
-#[[feature]]
+[[feature]]
 icon = "📊"
 icon_pack = "emoji"
 name = "Emojiness"
