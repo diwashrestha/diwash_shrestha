@@ -22,7 +22,7 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "chart-simple"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Data Analytics"
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
@@ -36,11 +36,11 @@ subtitle = ""
 
 
 # Uncomment to use emoji icons.
-[[feature]]
-icon = ":smile:"
-icon_pack = "emoji"
-name = "Emojiness"
-description = "100%"  
+#[[feature]]
+#icon = ":smile:"
+#icon_pack = "emoji"
+#name = "Emojiness"
+#description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
