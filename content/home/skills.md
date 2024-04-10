@@ -22,7 +22,7 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "chart-area"
+  icon = "magnifying-glass-chart"
   icon_pack = "fas"
   name = "Data Analytics"
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
