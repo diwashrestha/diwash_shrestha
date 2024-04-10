@@ -19,25 +19,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Specialize in developing high-performing ML and DL models and deploying them effectively to address complex business challenges."
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Knowledge of Python programming for data science.<br> Used for data analysis and app development" 
-  
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Know Intermediate level of R Programing.<br> Used for data analysis and dashboard creation."
   
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Data Analysis"
+  name = "Data Analytics"
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
 [[feature]]
