@@ -37,10 +37,10 @@ subtitle = ""
 
 # Uncomment to use emoji icons.
 #[[feature]]
-icon = "🔍📊📈📉📑"
-icon_pack = "emoji"
-name = "Emojiness"
-description = "100%"  
+#icon = "🔍📊📈📉📑"
+#icon_pack = "emoji"
+#name = "Emojiness"
+#description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
