@@ -28,7 +28,7 @@ subtitle = ""
   description = "Knowledge of various data analysis techniques <br> and the ability to effectively present results, trends, and actionable recommendations"  
 
 [[feature]]
-  icon = "chalkboard"
+  icon = "gauge"
   icon_pack = "fas"
   name = "Dashboard"
   description = "Knowledge of creating  Analytical Application <br> and dashboard with Dash Plotly, Looker Studio, Power BI, Shiny"  
