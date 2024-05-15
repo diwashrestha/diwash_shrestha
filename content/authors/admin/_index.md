@@ -34,7 +34,7 @@ social:
   link: https://github.com/diwashrestha
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/shresthadiwash/
+  link: https://linkedin.com/in/diwashrestha/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/shrestha__diwash/
